@@ -1,0 +1,2 @@
+# Catalog files are signed byte-for-byte; never let Git change their line endings.
+catalog/** -text

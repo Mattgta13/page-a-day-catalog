@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "revision": 20261022135455,
+  "subjects": [
+    {
+      "id": "sports-cars",
+      "name": "Sports Cars",
+      "group": "Vehicles",
+      "file": "subjects/sports-cars.json",
+      "sha256": "42c00d647d6dcc16bafbd80e37cfe9d1f50640cbb32ed02eaa69d8162e9a2516",
+      "count": 8
+    }
+  ]
+}

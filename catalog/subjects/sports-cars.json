@@ -1,0 +1,102 @@
+{
+  "id": "sports-cars",
+  "name": "Sports Cars",
+  "entries": [
+    {
+      "id": "ferrari-275-gtb4-1967",
+      "title": "1967 Ferrari 275 GTB/4",
+      "detail": "3.3L quad-cam V12 · 300 hp",
+      "image": { "wikimedia": "1967 Ferrari 275 GTB 1.jpg" },
+      "credit": {
+        "author": "Calreyn88",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1967_Ferrari_275_GTB_1.jpg"
+      },
+      "verified": "Commons category: 1967 Ferrari 275 GTB/4 s/n 09957. Power: Wikipedia, Ferrari 275."
+    },
+    {
+      "id": "porsche-911-gt3-rs-2023",
+      "title": "2023 Porsche 911 GT3 RS",
+      "detail": "4.0L flat-six · 518 hp",
+      "image": { "wikimedia": "2023 Porsche 911 GT3 RS HCC23.jpg" },
+      "credit": {
+        "author": "MrWalkr",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2023_Porsche_911_GT3_RS_HCC23.jpg"
+      },
+      "verified": "Commons category: Porsche 911 GT3 RS (992.1). Power: Wikipedia, Porsche 911 GT3 (992.1 GT3 RS)."
+    },
+    {
+      "id": "jaguar-e-type-s1-1962",
+      "title": "1962 Jaguar E-Type Series 1 Coupe",
+      "detail": "3.8L inline-six · 265 hp",
+      "image": { "wikimedia": "1962 Jaguar E-Type Series 1 FHC.jpg" },
+      "credit": {
+        "author": "MrWalkr",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1962_Jaguar_E-Type_Series_1_FHC.jpg"
+      },
+      "verified": "Commons category: Jaguar E-Type Fixed Head Coupe Series I. Power: Wikipedia, Jaguar E-Type (3.8-litre)."
+    },
+    {
+      "id": "mclaren-f1-1995",
+      "title": "1995 McLaren F1",
+      "detail": "6.1L BMW V12 · 618 hp",
+      "image": { "wikimedia": "1995 McLaren F1 HCC24.jpg" },
+      "credit": {
+        "author": "MrWalkr",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1995_McLaren_F1_HCC24.jpg"
+      },
+      "verified": "Commons category: McLaren F1. Power: Wikipedia, McLaren F1 (BMW S70/2)."
+    },
+    {
+      "id": "plymouth-hemi-cuda-1970",
+      "title": "1970 Plymouth Hemi ’Cuda",
+      "detail": "426 Hemi V8 · 425 hp",
+      "image": { "wikimedia": "1970 Plymouth Hemi 'Cuda (31006971013).jpg" },
+      "credit": {
+        "author": "Greg Gjerdingen",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_Hemi_%27Cuda_(31006971013).jpg"
+      },
+      "verified": "Commons category: 1970 Plymouth Barracuda; photographer's title: Hemi 'Cuda. Power: Wikipedia, Plymouth Barracuda (426 Hemi)."
+    },
+    {
+      "id": "mclaren-750s-2024",
+      "title": "2024 McLaren 750S",
+      "detail": "4.0L twin-turbo V8 · 740 hp",
+      "image": { "wikimedia": "2024 McLaren 750S 2.jpg" },
+      "credit": {
+        "author": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2024_McLaren_750S_2.jpg"
+      },
+      "verified": "Commons category: McLaren 750S. Power: Wikipedia, McLaren 750S (750 PS)."
+    },
+    {
+      "id": "lamborghini-countach-25th-1989",
+      "title": "1989 Lamborghini Countach 25th Anniversary",
+      "detail": "5.2L quad-valve V12",
+      "image": { "wikimedia": "1989 Lamborghini Countach 25th Anniversary SCD 24.jpg" },
+      "credit": {
+        "author": "MrWalkr",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:1989_Lamborghini_Countach_25th_Anniversary_SCD_24.jpg"
+      },
+      "verified": "Commons category: Lamborghini Countach 25th Anniversary. Power varies by market (420/449 hp), so omitted."
+    },
+    {
+      "id": "ford-mustang-gtd-2025",
+      "title": "2025 Ford Mustang GTD",
+      "detail": "5.2L supercharged V8 · 815 hp",
+      "image": { "wikimedia": "2024 Ford Mustang GTD 1.jpg" },
+      "credit": {
+        "author": "Calreyn88",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:2024_Ford_Mustang_GTD_1.jpg"
+      },
+      "verified": "Commons category: Ford Mustang GTD. GTD is sold as a 2025 model. Power: Wikipedia, Ford Mustang (seventh generation)."
+    }
+  ]
+}
