@@ -53,6 +53,7 @@ ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{0,79}$")
 # Must match ALLOWED_HOSTS in src-tauri/src/net.rs.
 ALLOWED_IMAGE_HOSTS = {
     "upload.wikimedia.org",
+    "thumb.wikimedia.org",
     "commons.wikimedia.org",
     "images-assets.nasa.gov",
     "images.metmuseum.org",
