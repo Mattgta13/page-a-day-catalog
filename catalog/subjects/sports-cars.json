@@ -1,102 +1,5116 @@
 {
-  "id": "sports-cars",
-  "name": "Sports Cars",
-  "entries": [
-    {
-      "id": "ferrari-275-gtb4-1967",
-      "title": "1967 Ferrari 275 GTB/4",
-      "detail": "3.3L quad-cam V12 · 300 hp",
-      "image": { "wikimedia": "1967 Ferrari 275 GTB 1.jpg" },
-      "credit": {
-        "author": "Calreyn88",
-        "license": "CC BY 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:1967_Ferrari_275_GTB_1.jpg"
-      },
-      "verified": "Commons category: 1967 Ferrari 275 GTB/4 s/n 09957. Power: Wikipedia, Ferrari 275."
-    },
-    {
-      "id": "porsche-911-gt3-rs-2023",
-      "title": "2023 Porsche 911 GT3 RS",
-      "detail": "4.0L flat-six · 518 hp",
-      "image": { "wikimedia": "2023 Porsche 911 GT3 RS HCC23.jpg" },
-      "credit": {
-        "author": "MrWalkr",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:2023_Porsche_911_GT3_RS_HCC23.jpg"
-      },
-      "verified": "Commons category: Porsche 911 GT3 RS (992.1). Power: Wikipedia, Porsche 911 GT3 (992.1 GT3 RS)."
-    },
-    {
-      "id": "jaguar-e-type-s1-1962",
-      "title": "1962 Jaguar E-Type Series 1 Coupe",
-      "detail": "3.8L inline-six · 265 hp",
-      "image": { "wikimedia": "1962 Jaguar E-Type Series 1 FHC.jpg" },
-      "credit": {
-        "author": "MrWalkr",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:1962_Jaguar_E-Type_Series_1_FHC.jpg"
-      },
-      "verified": "Commons category: Jaguar E-Type Fixed Head Coupe Series I. Power: Wikipedia, Jaguar E-Type (3.8-litre)."
-    },
-    {
-      "id": "mclaren-f1-1995",
-      "title": "1995 McLaren F1",
-      "detail": "6.1L BMW V12 · 618 hp",
-      "image": { "wikimedia": "1995 McLaren F1 HCC24.jpg" },
-      "credit": {
-        "author": "MrWalkr",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:1995_McLaren_F1_HCC24.jpg"
-      },
-      "verified": "Commons category: McLaren F1. Power: Wikipedia, McLaren F1 (BMW S70/2)."
-    },
-    {
-      "id": "plymouth-hemi-cuda-1970",
-      "title": "1970 Plymouth Hemi ’Cuda",
-      "detail": "426 Hemi V8 · 425 hp",
-      "image": { "wikimedia": "1970 Plymouth Hemi 'Cuda (31006971013).jpg" },
-      "credit": {
-        "author": "Greg Gjerdingen",
-        "license": "CC BY 2.0",
-        "source": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_Hemi_%27Cuda_(31006971013).jpg"
-      },
-      "verified": "Commons category: 1970 Plymouth Barracuda; photographer's title: Hemi 'Cuda. Power: Wikipedia, Plymouth Barracuda (426 Hemi)."
-    },
-    {
-      "id": "mclaren-750s-2024",
-      "title": "2024 McLaren 750S",
-      "detail": "4.0L twin-turbo V8 · 740 hp",
-      "image": { "wikimedia": "2024 McLaren 750S 2.jpg" },
-      "credit": {
-        "author": "Calreyn88",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:2024_McLaren_750S_2.jpg"
-      },
-      "verified": "Commons category: McLaren 750S. Power: Wikipedia, McLaren 750S (750 PS)."
-    },
-    {
-      "id": "lamborghini-countach-25th-1989",
-      "title": "1989 Lamborghini Countach 25th Anniversary",
-      "detail": "5.2L quad-valve V12",
-      "image": { "wikimedia": "1989 Lamborghini Countach 25th Anniversary SCD 24.jpg" },
-      "credit": {
-        "author": "MrWalkr",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:1989_Lamborghini_Countach_25th_Anniversary_SCD_24.jpg"
-      },
-      "verified": "Commons category: Lamborghini Countach 25th Anniversary. Power varies by market (420/449 hp), so omitted."
-    },
-    {
-      "id": "ford-mustang-gtd-2025",
-      "title": "2025 Ford Mustang GTD",
-      "detail": "5.2L supercharged V8 · 815 hp",
-      "image": { "wikimedia": "2024 Ford Mustang GTD 1.jpg" },
-      "credit": {
-        "author": "Calreyn88",
-        "license": "CC BY-SA 4.0",
-        "source": "https://commons.wikimedia.org/wiki/File:2024_Ford_Mustang_GTD_1.jpg"
-      },
-      "verified": "Commons category: Ford Mustang GTD. GTD is sold as a 2025 model. Power: Wikipedia, Ford Mustang (seventh generation)."
-    }
-  ]
+ "id": "sports-cars",
+ "name": "Sports Cars",
+ "entries": [
+  {
+   "id": "ferrari-275-gtb4-1967",
+   "title": "1967 Ferrari 275 GTB/4",
+   "detail": "3.3L quad-cam V12 · 300 hp",
+   "image": {
+    "wikimedia": "1967 Ferrari 275 GTB 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Ferrari_275_GTB_1.jpg"
+   },
+   "verified": "Commons category: 1967 Ferrari 275 GTB/4 s/n 09957. Power: Wikipedia, Ferrari 275."
+  },
+  {
+   "id": "porsche-911-gt3-rs-2023",
+   "title": "2023 Porsche 911 GT3 RS",
+   "detail": "4.0L flat-six · 518 hp",
+   "image": {
+    "wikimedia": "2023 Porsche 911 GT3 RS HCC23.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Porsche_911_GT3_RS_HCC23.jpg"
+   },
+   "verified": "Commons category: Porsche 911 GT3 RS (992.1). Power: Wikipedia, Porsche 911 GT3 (992.1 GT3 RS)."
+  },
+  {
+   "id": "jaguar-e-type-s1-1962",
+   "title": "1962 Jaguar E-Type Series 1 Coupe",
+   "detail": "3.8L inline-six · 265 hp",
+   "image": {
+    "wikimedia": "1962 Jaguar E-Type Series 1 FHC.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1962_Jaguar_E-Type_Series_1_FHC.jpg"
+   },
+   "verified": "Commons category: Jaguar E-Type Fixed Head Coupe Series I. Power: Wikipedia, Jaguar E-Type (3.8-litre)."
+  },
+  {
+   "id": "mclaren-f1-1995",
+   "title": "1995 McLaren F1",
+   "detail": "6.1L BMW V12 · 618 hp",
+   "image": {
+    "wikimedia": "1995 McLaren F1 HCC24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1995_McLaren_F1_HCC24.jpg"
+   },
+   "verified": "Commons category: McLaren F1. Power: Wikipedia, McLaren F1 (BMW S70/2)."
+  },
+  {
+   "id": "plymouth-hemi-cuda-1970",
+   "title": "1970 Plymouth Hemi ’Cuda",
+   "detail": "426 Hemi V8 · 425 hp",
+   "image": {
+    "wikimedia": "1970 Plymouth Hemi 'Cuda (31006971013).jpg"
+   },
+   "credit": {
+    "author": "Greg Gjerdingen",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_Hemi_%27Cuda_(31006971013).jpg"
+   },
+   "verified": "Commons category: 1970 Plymouth Barracuda; photographer's title: Hemi 'Cuda. Power: Wikipedia, Plymouth Barracuda (426 Hemi)."
+  },
+  {
+   "id": "mclaren-750s-2024",
+   "title": "2024 McLaren 750S",
+   "detail": "4.0L twin-turbo V8 · 740 hp",
+   "image": {
+    "wikimedia": "2024 McLaren 750S 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_McLaren_750S_2.jpg"
+   },
+   "verified": "Commons category: McLaren 750S. Power: Wikipedia, McLaren 750S (750 PS)."
+  },
+  {
+   "id": "lamborghini-countach-25th-1989",
+   "title": "1989 Lamborghini Countach 25th Anniversary",
+   "detail": "5.2L quad-valve V12",
+   "image": {
+    "wikimedia": "1989 Lamborghini Countach 25th Anniversary SCD 24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1989_Lamborghini_Countach_25th_Anniversary_SCD_24.jpg"
+   },
+   "verified": "Commons category: Lamborghini Countach 25th Anniversary. Power varies by market (420/449 hp), so omitted."
+  },
+  {
+   "id": "ford-mustang-gtd-2025",
+   "title": "2025 Ford Mustang GTD",
+   "detail": "5.2L supercharged V8 · 815 hp",
+   "image": {
+    "wikimedia": "2024 Ford Mustang GTD 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Ford_Mustang_GTD_1.jpg"
+   },
+   "verified": "Commons category: Ford Mustang GTD. GTD is sold as a 2025 model. Power: Wikipedia, Ford Mustang (seventh generation)."
+  },
+  {
+   "id": "triumph-tr7-1976",
+   "title": "1976 Triumph TR7",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1976 Triumph TR7 (32687462917).jpg"
+   },
+   "credit": {
+    "author": "David Merrett from Daventry, England",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1976_Triumph_TR7_(32687462917).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph TR7."
+  },
+  {
+   "id": "bugatti-veyron-centenaire-2009",
+   "title": "2009 Bugatti Veyron Centenaire",
+   "detail": "8.0L quad-turbo W16 · France",
+   "image": {
+    "wikimedia": "2009 Bugatti Veyron Centenaire Malcolm Campbell.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_Centenaire_Malcolm_Campbell.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Bugatti Veyron."
+  },
+  {
+   "id": "ferrari-sf90-stradale-2022",
+   "title": "2022 Ferrari SF90 Stradale",
+   "detail": "Twin-turbo V8 hybrid · Italy",
+   "image": {
+    "wikimedia": "2022 Ferrari SF90 Ispirazioni.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Ferrari_SF90_Ispirazioni.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari SF90 Stradale."
+  },
+  {
+   "id": "alfa-romeo-montreal-1973",
+   "title": "1973 Alfa Romeo Montreal",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "1973 Alfa Romeo Montreal 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Alfa_Romeo_Montreal_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo Montreal."
+  },
+  {
+   "id": "lamborghini-countach-lp5000-qv-1987",
+   "title": "1987 Lamborghini Countach LP5000 QV",
+   "detail": "5.2L quad-valve V12 · Italy",
+   "image": {
+    "wikimedia": "1987 Lamborghini Countach LP5000 QV LC23.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1987_Lamborghini_Countach_LP5000_QV_LC23.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Countach."
+  },
+  {
+   "id": "pagani-zonda-2003",
+   "title": "2003 Pagani Zonda",
+   "detail": "Mercedes-AMG V12 · Italy",
+   "image": {
+    "wikimedia": "2003 Pagani Zonda Nero 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2003_Pagani_Zonda_Nero_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Pagani Zonda."
+  },
+  {
+   "id": "ferrari-330-gtc-speciale-1967",
+   "title": "1967 Ferrari 330 GTC Speciale",
+   "detail": "4.0L V12 · Italy",
+   "image": {
+    "wikimedia": "1967 Ferrari 330 GTC Speciale Tipo Leo, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Ferrari_330_GTC_Speciale_Tipo_Leo,_front_left.jpg"
+   },
+   "verified": "Commons category: 1967 Ferrari 330 GTC Speciale s/n 10107. Specs: Wikipedia, Ferrari 330."
+  },
+  {
+   "id": "rimac-nevera-2024",
+   "title": "2024 Rimac Nevera",
+   "detail": "Quad-motor electric · Croatia",
+   "image": {
+    "wikimedia": "2024 Rimac Nevera 15th Anniversary Edition (31670).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Rimac_Nevera_15th_Anniversary_Edition_(31670).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Rimac Nevera."
+  },
+  {
+   "id": "mercedes-benz-190-sl-1961",
+   "title": "1961 Mercedes-Benz 190 SL",
+   "detail": "1.9L inline-four · Germany",
+   "image": {
+    "wikimedia": "1961 Mercedes-Benz W121BII IMG 3957.jpg"
+   },
+   "credit": {
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1961_Mercedes-Benz_W121BII_IMG_3957.jpg"
+   },
+   "verified": "Commons category: 1961 Mercedes-Benz 190 SL. Specs: Wikipedia, Mercedes-Benz 190 SL."
+  },
+  {
+   "id": "amc-amx-1968",
+   "title": "1968 AMC AMX",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1968 AMC AMX (21593834321).jpg"
+   },
+   "credit": {
+    "author": "Greg Gjerdingen from Willmar, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1968_AMC_AMX_(21593834321).jpg"
+   },
+   "verified": "Commons category: 1968 AMC AMX. Specs: Wikipedia, AMC AMX."
+  },
+  {
+   "id": "ferrari-296-gtb-2024",
+   "title": "2024 Ferrari 296 GTB",
+   "detail": "V6 hybrid · Italy",
+   "image": {
+    "wikimedia": "2024 Ferrari 296 GTB.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Ferrari_296_GTB.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 296."
+  },
+  {
+   "id": "lotus-elite-s2-1961",
+   "title": "1961 Lotus Elite S2",
+   "detail": "1.2L inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1961 Lotus Elite S2 LC.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1961_Lotus_Elite_S2_LC.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Elite."
+  },
+  {
+   "id": "porsche-718-cayman-gts-2016",
+   "title": "2016 Porsche 718 Cayman GTS",
+   "detail": "Mid-engine boxer · Germany",
+   "image": {
+    "wikimedia": "2016 Porsche 718 Cayman GTS.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Porsche_718_Cayman_GTS.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche Boxster and Cayman (982)."
+  },
+  {
+   "id": "aston-martin-valkyrie-2023",
+   "title": "2023 Aston Martin Valkyrie",
+   "detail": "6.5L V12 hybrid · United Kingdom",
+   "image": {
+    "wikimedia": "2023 Aston Martin Valkyrie 30.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Valkyrie_30.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin Valkyrie."
+  },
+  {
+   "id": "triumph-tr2-1954",
+   "title": "1954 Triumph TR2",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1954 Triumph TR2 Roadster (16152184310).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1954_Triumph_TR2_Roadster_(16152184310).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph TR2."
+  },
+  {
+   "id": "ferrari-enzo-2004",
+   "title": "2004 Ferrari Enzo",
+   "detail": "6.0L V12 · 651 hp",
+   "image": {
+    "wikimedia": "Ferrari Enzo (2004) (55081629415).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Enzo_(2004)_(55081629415).jpg"
+   },
+   "verified": "Commons category: 2004 Enzo Ferrari s/n 136498. Specs: Wikipedia, Ferrari Enzo."
+  },
+  {
+   "id": "austin-healey-100-bn1-1954",
+   "title": "1954 Austin-Healey 100 BN1",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1954 Austin-Healey 100-4 BN1 (Simeone) 01.png"
+   },
+   "credit": {
+    "author": "Al R",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1954_Austin-Healey_100-4_BN1_(Simeone)_01.png"
+   },
+   "verified": "Commons category: 1954 Austin-Healey 100-4 BN1 in the Simeone Foundation Automotive Museum. Specs: Wikipedia, Austin-Healey 100."
+  },
+  {
+   "id": "aston-martin-db6-mk2-1970",
+   "title": "1970 Aston Martin DB6 Mk2",
+   "detail": "4.0L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1970 Aston Martin DB6 MK 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1970_Aston_Martin_DB6_MK_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DB6."
+  },
+  {
+   "id": "jaguar-xk150-1958",
+   "title": "1958 Jaguar XK150",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1958 Jaguar XK150 DHC Project.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1958_Jaguar_XK150_DHC_Project.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XK150."
+  },
+  {
+   "id": "ford-thunderbird-1955",
+   "title": "1955 Ford Thunderbird",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1955 Ford Thunderbird Convertible - Nethercutt Collection - Los Angeles, CA - DSC01997.jpg"
+   },
+   "credit": {
+    "author": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:1955_Ford_Thunderbird_Convertible_-_Nethercutt_Collection_-_Los_Angeles,_CA_-_DSC01997.jpg"
+   },
+   "verified": "Commons category: 1955 Ford Thunderbird. Specs: Wikipedia, Ford Thunderbird (first generation)."
+  },
+  {
+   "id": "sunbeam-harrington-le-mans-1961",
+   "title": "1961 Sunbeam Harrington Le Mans",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1961 Sunbeam Harrington Le Mans HCC25.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1961_Sunbeam_Harrington_Le_Mans_HCC25.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Sunbeam Alpine."
+  },
+  {
+   "id": "mercedes-benz-slk-230-kompressor-1997",
+   "title": "1997 Mercedes-Benz SLK 230 Kompressor",
+   "detail": "Front-engine roadster · Germany",
+   "image": {
+    "wikimedia": "1997 Mercedes-Benz R170 SLK 230 Kompressor, front right, 07-28-2024.jpg"
+   },
+   "credit": {
+    "author": "Ethan Llamas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1997_Mercedes-Benz_R170_SLK_230_Kompressor,_front_right,_07-28-2024.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz SLK-Class (R170)."
+  },
+  {
+   "id": "porsche-356a-speedster-1958",
+   "title": "1958 Porsche 356A Speedster",
+   "detail": "Flat-four · Germany",
+   "image": {
+    "wikimedia": "1958 Porsche 356 A Speedster.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1958_Porsche_356_A_Speedster.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 356."
+  },
+  {
+   "id": "opel-gt-1973",
+   "title": "1973 Opel GT",
+   "detail": "Inline-four · Germany",
+   "image": {
+    "wikimedia": "1973 Opel GT (1900, US) front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Opel_GT_(1900,_US)_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Opel GT."
+  },
+  {
+   "id": "ferrari-308-gtb-1980",
+   "title": "1980 Ferrari 308 GTB",
+   "detail": "2.9L V8 · Italy",
+   "image": {
+    "wikimedia": "Mauto Museo Nazionale dell'Automobile di Torino 28.jpg"
+   },
+   "credit": {
+    "author": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mauto_Museo_Nazionale_dell'Automobile_di_Torino_28.jpg"
+   },
+   "verified": "Commons category: 1980 Ferrari 308 GTB (Museo Torino). Specs: Wikipedia, Ferrari 308 GTB/GTS."
+  },
+  {
+   "id": "bmw-z3-1997",
+   "title": "1997 BMW Z3",
+   "detail": "Front-engine roadster · Germany",
+   "image": {
+    "wikimedia": "1997 BMW Z3 1.9.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1997_BMW_Z3_1.9.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW Z3."
+  },
+  {
+   "id": "porsche-carrera-gt-2004",
+   "title": "2004 Porsche Carrera GT",
+   "detail": "5.7L V10 · 603 hp",
+   "image": {
+    "wikimedia": "2004 Porsche Carrera GT HCC21.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2004_Porsche_Carrera_GT_HCC21.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche Carrera GT."
+  },
+  {
+   "id": "mercedes-amg-gt-2024",
+   "title": "2024 Mercedes-AMG GT",
+   "detail": "4.0L twin-turbo V8 · Germany",
+   "image": {
+    "wikimedia": "2024 Mercedes-Benz AMG GT front.jpg"
+   },
+   "credit": {
+    "author": "Teves 9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Mercedes-Benz_AMG_GT_front.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-AMG GT."
+  },
+  {
+   "id": "ferrari-250-gt-lusso-1963",
+   "title": "1963 Ferrari 250 GT Lusso",
+   "detail": "3.0L V12 · Italy",
+   "image": {
+    "wikimedia": "1963 Ferrari 250 Lusso in Grigio Argento, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1963_Ferrari_250_Lusso_in_Grigio_Argento,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 250 GT Lusso."
+  },
+  {
+   "id": "chevrolet-corvette-1953",
+   "title": "1953 Chevrolet Corvette",
+   "detail": "Front-engine roadster · USA",
+   "image": {
+    "wikimedia": "1953 Chevrolet C1 Corvette Roadster (14506670773).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1953_Chevrolet_C1_Corvette_Roadster_(14506670773).jpg"
+   },
+   "verified": "Commons category: 1953 Chevrolet Corvette. Specs: Wikipedia, Chevrolet Corvette (C1)."
+  },
+  {
+   "id": "porsche-550-spyder-1955",
+   "title": "1955 Porsche 550 Spyder",
+   "detail": "1.5L flat-four · Germany",
+   "image": {
+    "wikimedia": "Porsche 550 Spyder (52760207162).jpg"
+   },
+   "credit": {
+    "author": "Michael Gaylard from Horsham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_550_Spyder_(52760207162).jpg"
+   },
+   "verified": "Commons category: 1955 Porsche 550-0028. Specs: Wikipedia, Porsche 550."
+  },
+  {
+   "id": "pontiac-solstice-2007",
+   "title": "2007 Pontiac Solstice",
+   "detail": "Inline-four · USA",
+   "image": {
+    "wikimedia": "2007 Pontiac Solstice (34168415513) (cropped).jpg"
+   },
+   "credit": {
+    "author": "Greg Gjerdingen from Willmar, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2007_Pontiac_Solstice_(34168415513)_(cropped).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Pontiac Solstice."
+  },
+  {
+   "id": "ferrari-212-inter-1952",
+   "title": "1952 Ferrari 212 Inter",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "1952 Ferrari 212 Inter HCC25.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1952_Ferrari_212_Inter_HCC25.jpg"
+   },
+   "verified": "Commons category: 1952 Ferrari 212 Inter Pinin Farina Coupe s/n 0229EL. Specs: Wikipedia, Ferrari 212 Inter."
+  },
+  {
+   "id": "datsun-240z-1973",
+   "title": "1973 Datsun 240Z",
+   "detail": "2.4L inline-six · Japan",
+   "image": {
+    "wikimedia": "1973 Datsun 240Z white.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Datsun_240Z_white.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Nissan S30."
+  },
+  {
+   "id": "lamborghini-revuelto-2024",
+   "title": "2024 Lamborghini Revuelto",
+   "detail": "6.5L V12 hybrid · Italy",
+   "image": {
+    "wikimedia": "2024 Lamborghini Revuelto 23.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Lamborghini_Revuelto_23.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Revuelto."
+  },
+  {
+   "id": "mercedes-benz-clk-gtr-1999",
+   "title": "1999 Mercedes-Benz CLK GTR",
+   "detail": "V12 · Germany",
+   "image": {
+    "wikimedia": "1999 Mercedes-Benz CLK-GTR at Lime Rock, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1999_Mercedes-Benz_CLK-GTR_at_Lime_Rock,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz CLK GTR."
+  },
+  {
+   "id": "porsche-924-1982",
+   "title": "1982 Porsche 924",
+   "detail": "Inline-four · Germany",
+   "image": {
+    "wikimedia": "1982 Porsche 924 (16992).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1982_Porsche_924_(16992).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 924."
+  },
+  {
+   "id": "chevrolet-corvette-stingray-z51-2016",
+   "title": "2016 Chevrolet Corvette Stingray Z51",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "2016 Chevrolet Corvette Stingray 2LT Z51 coupe, front left, 10-29-2023.jpg"
+   },
+   "credit": {
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Chevrolet_Corvette_Stingray_2LT_Z51_coupe,_front_left,_10-29-2023.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Chevrolet Corvette (C7)."
+  },
+  {
+   "id": "aston-martin-v8-1982",
+   "title": "1982 Aston Martin V8",
+   "detail": "V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1982 Aston Martin V8 (21539162568).jpg"
+   },
+   "credit": {
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1982_Aston_Martin_V8_(21539162568).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin V8 Vantage (1977)."
+  },
+  {
+   "id": "renault-sport-spider-1997",
+   "title": "1997 Renault Sport Spider",
+   "detail": "Inline-four · France",
+   "image": {
+    "wikimedia": "1997 Renault Sport Spider 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1997_Renault_Sport_Spider_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Renault Sport Spider."
+  },
+  {
+   "id": "koenigsegg-agera-s-2012",
+   "title": "2012 Koenigsegg Agera S",
+   "detail": "5.0L twin-turbo V8 · Sweden",
+   "image": {
+    "wikimedia": "2012 Koenigsegg Agera S 7095 LC22.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Koenigsegg_Agera_S_7095_LC22.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Koenigsegg Agera."
+  },
+  {
+   "id": "porsche-911-carrera-rs-2-7-1973",
+   "title": "1973 Porsche 911 Carrera RS 2.7",
+   "detail": "2.7L flat-six · Germany",
+   "image": {
+    "wikimedia": "1973 Porsche 911 Carrera RS 2.7 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Porsche_911_Carrera_RS_2.7_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 911 (classic)."
+  },
+  {
+   "id": "aston-martin-db4-gt-zagato-1961",
+   "title": "1961 Aston Martin DB4 GT Zagato",
+   "detail": "3.7L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "Aston Martin DB4 GT Zagato (1961) (55078848243).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aston_Martin_DB4_GT_Zagato_(1961)_(55078848243).jpg"
+   },
+   "verified": "Commons category: 1961 Aston Martin DB4 GT Zagato 0178/L. Specs: Wikipedia, Aston Martin DB4 GT Zagato."
+  },
+  {
+   "id": "triumph-spitfire-1966",
+   "title": "1966 Triumph Spitfire",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1966 Triumph Spitfire.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1966_Triumph_Spitfire.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph Spitfire."
+  },
+  {
+   "id": "audi-r8-2024",
+   "title": "2024 Audi R8",
+   "detail": "5.2L V10 · Germany",
+   "image": {
+    "wikimedia": "2024 Audi R8 V10 Performance.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Audi_R8_V10_Performance.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Audi R8 (Type 4S)."
+  },
+  {
+   "id": "alfa-romeo-8c-competizione-2010",
+   "title": "2010 Alfa Romeo 8C Competizione",
+   "detail": "4.7L V8 · Italy",
+   "image": {
+    "wikimedia": "2010 Alfa Romeo 8C Competizione Autobau.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2010_Alfa_Romeo_8C_Competizione_Autobau.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo 8C Competizione."
+  },
+  {
+   "id": "aston-martin-one-77-2011",
+   "title": "2011 Aston Martin One-77",
+   "detail": "7.3L V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2011 Aston Martin One-77 in Bronze Pearl, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Aston_Martin_One-77_in_Bronze_Pearl,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin One-77."
+  },
+  {
+   "id": "bmw-m1-1980",
+   "title": "1980 BMW M1",
+   "detail": "3.5L inline-six · Germany",
+   "image": {
+    "wikimedia": "1980 BMW M1 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1980_BMW_M1_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW M1."
+  },
+  {
+   "id": "porsche-911-carrera-2-7-1975",
+   "title": "1975 Porsche 911 Carrera 2.7",
+   "detail": "Air-cooled flat-six · Germany",
+   "image": {
+    "wikimedia": "1975 Porsche 911 Carrera RS 2.7 Guards Red.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1975_Porsche_911_Carrera_RS_2.7_Guards_Red.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 911 (classic)."
+  },
+  {
+   "id": "alfa-romeo-giulietta-sprint-veloce-1959",
+   "title": "1959 Alfa Romeo Giulietta Sprint Veloce",
+   "detail": "1.3L inline-four · Italy",
+   "image": {
+    "wikimedia": "1959 Alfa Romeo Giulietta Sprint Veloce (6990653651).jpg"
+   },
+   "credit": {
+    "author": "Spanish Coches",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1959_Alfa_Romeo_Giulietta_Sprint_Veloce_(6990653651).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo Giulietta (750/101)."
+  },
+  {
+   "id": "shelby-gt350-1966",
+   "title": "1966 Shelby GT350",
+   "detail": "Ford V8 · USA",
+   "image": {
+    "wikimedia": "Ford Mustang Shelby GT 350 (1966) (54868974727).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Shelby_GT_350_(1966)_(54868974727).jpg"
+   },
+   "verified": "Commons category: 1966 Shelby GT350. Specs: Wikipedia, Shelby Mustang."
+  },
+  {
+   "id": "jaguar-d-type-1955",
+   "title": "1955 Jaguar D-Type",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1955 Jaguar D-type (XKD515), front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1955_Jaguar_D-type_(XKD515),_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar D-Type."
+  },
+  {
+   "id": "bizzarrini-5300-gt-strada-1967",
+   "title": "1967 Bizzarrini 5300 GT Strada",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "1967 Bizzarrini 5300 GT Strada in Emerald Green, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Bizzarrini_5300_GT_Strada_in_Emerald_Green,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Bizzarrini 5300 GT Strada."
+  },
+  {
+   "id": "honda-s800-1967",
+   "title": "1967 Honda S800",
+   "detail": "Inline-four · Japan",
+   "image": {
+    "wikimedia": "1967 Honda S800 800cc.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Honda_S800_800cc.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Honda S800."
+  },
+  {
+   "id": "lotus-europa-s1-1966",
+   "title": "1966 Lotus Europa S1",
+   "detail": "Mid-engine inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1966 Lotus Europa Series 1 (15622859369).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1966_Lotus_Europa_Series_1_(15622859369).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Europa."
+  },
+  {
+   "id": "aston-martin-db12-2024",
+   "title": "2024 Aston Martin DB12",
+   "detail": "4.0L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2024 Aston Martin DB12 4.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_DB12_4.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DB12."
+  },
+  {
+   "id": "gumpert-apollo-s-2010",
+   "title": "2010 Gumpert Apollo S",
+   "detail": "Twin-turbo V8 · Germany",
+   "image": {
+    "wikimedia": "Gumpert Apollo S (2010).jpg"
+   },
+   "credit": {
+    "author": "YHSJKSLALDJH",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gumpert_Apollo_S_(2010).jpg"
+   },
+   "verified": "Model and year in the Commons file name. Specs: Wikipedia, Gumpert Apollo."
+  },
+  {
+   "id": "lancia-stratos-hf-1977",
+   "title": "1977 Lancia Stratos HF",
+   "detail": "2.4L V6 · Italy",
+   "image": {
+    "wikimedia": "1977 Lancia Stratos HF Petersen Museum June 2026.jpg"
+   },
+   "credit": {
+    "author": "Guywelch2000",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1977_Lancia_Stratos_HF_Petersen_Museum_June_2026.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lancia Stratos."
+  },
+  {
+   "id": "alfa-romeo-spider-1969",
+   "title": "1969 Alfa Romeo Spider",
+   "detail": "Inline-four · Italy",
+   "image": {
+    "wikimedia": "1969 Alfa Romeo Spider Series 1 1.8 Front.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Alfa_Romeo_Spider_Series_1_1.8_Front.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo Spider."
+  },
+  {
+   "id": "nissan-z-performance-2023",
+   "title": "2023 Nissan Z Performance",
+   "detail": "3.0L twin-turbo V6 · Japan",
+   "image": {
+    "wikimedia": "2023 Nissan Z Performance in Seiran Blue, front right (NYIAS 2022).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Nissan_Z_Performance_in_Seiran_Blue,_front_right_(NYIAS_2022).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Nissan Z (RZ34)."
+  },
+  {
+   "id": "porsche-911-1965",
+   "title": "1965 Porsche 911",
+   "detail": "Air-cooled flat-six · Germany",
+   "image": {
+    "wikimedia": "Porsche 911 2.0 Coupe IMG 0819.jpg"
+   },
+   "credit": {
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Porsche_911_2.0_Coupe_IMG_0819.jpg"
+   },
+   "verified": "Commons category: 1965 Porsche 911 (blue, Porsche Museum). Specs: Wikipedia, Porsche 911 (classic)."
+  },
+  {
+   "id": "ford-mustang-1968",
+   "title": "1968 Ford Mustang",
+   "detail": "Front-engine pony car · USA",
+   "image": {
+    "wikimedia": "Ford Mustang 65A HT.jpg"
+   },
+   "credit": {
+    "author": "Bene Riobó",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_65A_HT.jpg"
+   },
+   "verified": "Commons category: 1968 Ford Mustang. Specs: Wikipedia, Ford Mustang (first generation)."
+  },
+  {
+   "id": "triumph-stag-1973",
+   "title": "1973 Triumph Stag",
+   "detail": "3.0L V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1973 Triumph Stag (US) in Green, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Triumph_Stag_(US)_in_Green,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph Stag."
+  },
+  {
+   "id": "nissan-350z-track-2003",
+   "title": "2003 Nissan 350Z Track",
+   "detail": "3.5L V6 · Japan",
+   "image": {
+    "wikimedia": "2003 Nissan 350Z (Z33) Track coupe (19471835428).jpg"
+   },
+   "credit": {
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2003_Nissan_350Z_(Z33)_Track_coupe_(19471835428).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Nissan 350Z."
+  },
+  {
+   "id": "jaguar-ss-100-1938",
+   "title": "1938 Jaguar SS 100",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1938 SS 100 Jaguar 3.5 Litre (Simeone) 01.png"
+   },
+   "credit": {
+    "author": "Al R",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1938_SS_100_Jaguar_3.5_Litre_(Simeone)_01.png"
+   },
+   "verified": "Commons category: 1938 SS 100 Jaguar 3.5 Litre in the Simeone Foundation Automotive Museum. Specs: Wikipedia, SS Jaguar 100."
+  },
+  {
+   "id": "ferrari-348-gts-1994",
+   "title": "1994 Ferrari 348 GTS",
+   "detail": "3.4L V8 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2018 - Ferrari 348 GTS - 1994 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Ferrari_348_GTS_-_1994_-_001.jpg"
+   },
+   "verified": "Commons category: 1994 Ferrari 348 GTS s/n 96858. Specs: Wikipedia, Ferrari 348."
+  },
+  {
+   "id": "caterham-seven-superlight-r400-2019",
+   "title": "2019 Caterham Seven Superlight R400",
+   "detail": "Front-engine lightweight · United Kingdom",
+   "image": {
+    "wikimedia": "2019 Caterham Seven Superlight R400.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Caterham_Seven_Superlight_R400.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Caterham 7."
+  },
+  {
+   "id": "volkswagen-karmann-ghia-1958",
+   "title": "1958 Volkswagen Karmann Ghia",
+   "detail": "Air-cooled flat-four · Germany",
+   "image": {
+    "wikimedia": "1958 Volkswagen Type 14 Karmann Ghia (32316666454).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1958_Volkswagen_Type_14_Karmann_Ghia_(32316666454).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Volkswagen Karmann Ghia."
+  },
+  {
+   "id": "volvo-1800es-1973",
+   "title": "1973 Volvo 1800ES",
+   "detail": "Inline-four · Sweden",
+   "image": {
+    "wikimedia": "1973 Volvo 1800 ES (20609088683).jpg"
+   },
+   "credit": {
+    "author": "Greg Gjerdingen from Willmar, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Volvo_1800_ES_(20609088683).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Volvo P1800."
+  },
+  {
+   "id": "mazda-rx-8-2008",
+   "title": "2008 Mazda RX-8",
+   "detail": "1.3L rotary · Japan",
+   "image": {
+    "wikimedia": "2008 Mazda RX-8 231PS.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Mazda_RX-8_231PS.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda RX-8."
+  },
+  {
+   "id": "jaguar-e-type-series-2-coupe-1970",
+   "title": "1970 Jaguar E-Type Series 2 Coupe",
+   "detail": "4.2L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1970 Jaguar E Type Series II Coupe (26467964305).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1970_Jaguar_E_Type_Series_II_Coupe_(26467964305).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar E-Type."
+  },
+  {
+   "id": "bmw-z8-2000",
+   "title": "2000 BMW Z8",
+   "detail": "4.9L V8 · Germany",
+   "image": {
+    "wikimedia": "Moscow car show 2026-07-31 2000 BMW Z8 03.jpg"
+   },
+   "credit": {
+    "author": "Retired electrician",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moscow_car_show_2026-07-31_2000_BMW_Z8_03.jpg"
+   },
+   "verified": "Commons category: 2000 BMW Z8 in Ilya Zibarev collection. Specs: Wikipedia, BMW Z8."
+  },
+  {
+   "id": "porsche-911-gt2-996-2001",
+   "title": "2001 Porsche 911 GT2 (996)",
+   "detail": "3.6L twin-turbo flat-six · Germany",
+   "image": {
+    "wikimedia": "2001 Porsche 911 996 GT2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2001_Porsche_911_996_GT2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 996."
+  },
+  {
+   "id": "chevrolet-corvette-2007",
+   "title": "2007 Chevrolet Corvette",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "2007 Chevrolet Corvette C6 bs25.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2007_Chevrolet_Corvette_C6_bs25.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Chevrolet Corvette (C6)."
+  },
+  {
+   "id": "ferrari-488-gtb-2015",
+   "title": "2015 Ferrari 488 GTB",
+   "detail": "3.9L twin-turbo V8 · Italy",
+   "image": {
+    "wikimedia": "Ferrari 488 GTB 3.9 '15 (16618969907).jpg"
+   },
+   "credit": {
+    "author": "Falcon® Photography from France",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_488_GTB_3.9_'15_(16618969907).jpg"
+   },
+   "verified": "Commons category: 2015 Ferrari 488 GTB (Geneva) s/n 208645. Specs: Wikipedia, Ferrari 488."
+  },
+  {
+   "id": "triumph-tr3a-1960",
+   "title": "1960 Triumph TR3A",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1960 Triumph TR3A Convertible front, concours 6.1.19.jpg"
+   },
+   "credit": {
+    "author": "Kevauto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1960_Triumph_TR3A_Convertible_front,_concours_6.1.19.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph TR3."
+  },
+  {
+   "id": "porsche-968-cabriolet-1992",
+   "title": "1992 Porsche 968 Cabriolet",
+   "detail": "3.0L inline-four · Germany",
+   "image": {
+    "wikimedia": "1992 Porsche 968 Cabriolet in Mint Green, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1992_Porsche_968_Cabriolet_in_Mint_Green,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 968."
+  },
+  {
+   "id": "mercedes-benz-230-sl-1964",
+   "title": "1964 Mercedes-Benz 230 SL",
+   "detail": "Inline-six · Germany",
+   "image": {
+    "wikimedia": "1964 Mercedes Benz 230 SL W113 Roadster (31579928018).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1964_Mercedes_Benz_230_SL_W113_Roadster_(31579928018).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz W113."
+  },
+  {
+   "id": "jensen-healey-1972",
+   "title": "1972 Jensen-Healey",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1972 Jensen Healey 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Jensen_Healey_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jensen-Healey."
+  },
+  {
+   "id": "ferrari-12cilindri-2025",
+   "title": "2025 Ferrari 12Cilindri",
+   "detail": "6.5L V12 · Italy",
+   "image": {
+    "wikimedia": "2025 Ferrari 12Cilindri 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Ferrari_12Cilindri_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 12Cilindri."
+  },
+  {
+   "id": "lexus-lc-2018",
+   "title": "2018 Lexus LC",
+   "detail": "Front-engine GT · Japan",
+   "image": {
+    "wikimedia": "2018 Lexus LC500, Deep Blue Mica, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Lexus_LC500,_Deep_Blue_Mica,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lexus LC."
+  },
+  {
+   "id": "aston-martin-dbs-1967",
+   "title": "1967 Aston Martin DBS",
+   "detail": "Inline-six or V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1967 Aston Martin DBS GT (35053640472).jpg"
+   },
+   "credit": {
+    "author": "Hugh Llewelyn from Keynsham, UK",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Aston_Martin_DBS_GT_(35053640472).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DBS (1967)."
+  },
+  {
+   "id": "gordon-murray-t-50-2024",
+   "title": "2024 Gordon Murray T.50",
+   "detail": "V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2024 Gordon Murray T50 9.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_T50_9.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Gordon Murray Automotive T.50."
+  },
+  {
+   "id": "ferrari-gtc4lusso-2018",
+   "title": "2018 Ferrari GTC4Lusso",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "2018 Ferrari GTC4 Lusso 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Ferrari_GTC4_Lusso_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari GTC4Lusso."
+  },
+  {
+   "id": "mclaren-p1-2016",
+   "title": "2016 McLaren P1",
+   "detail": "3.8L twin-turbo V8 hybrid · 903 hp",
+   "image": {
+    "wikimedia": "2016 McLaren P1 LC.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_McLaren_P1_LC.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren P1."
+  },
+  {
+   "id": "mazda-mx-5-miata-special-edition-2000",
+   "title": "2000 Mazda MX-5 Miata Special Edition",
+   "detail": "Inline-four · Japan",
+   "image": {
+    "wikimedia": "2000 Mazda Miata Special Edition, front left, 11-16-2024.jpg"
+   },
+   "credit": {
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2000_Mazda_Miata_Special_Edition,_front_left,_11-16-2024.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda MX-5 (NB)."
+  },
+  {
+   "id": "audi-tt-2005",
+   "title": "2005 Audi TT",
+   "detail": "Front-engine coupe · Germany",
+   "image": {
+    "wikimedia": "2005 Audi TT 1.8.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Audi_TT_1.8.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Audi TT."
+  },
+  {
+   "id": "ferrari-daytona-sp3-2023",
+   "title": "2023 Ferrari Daytona SP3",
+   "detail": "6.5L V12 · Italy",
+   "image": {
+    "wikimedia": "2023 Ferrari Daytona SP3 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Ferrari_Daytona_SP3_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari Daytona SP3."
+  },
+  {
+   "id": "lancia-flaminia-sport-zagato-1960",
+   "title": "1960 Lancia Flaminia Sport Zagato",
+   "detail": "V6 · Italy",
+   "image": {
+    "wikimedia": "1960 Lancia Flaminia Sport Zagato at the 2018 Greenwich Concours, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1960_Lancia_Flaminia_Sport_Zagato_at_the_2018_Greenwich_Concours,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lancia Flaminia."
+  },
+  {
+   "id": "ac-cobra-1967",
+   "title": "1967 AC Cobra",
+   "detail": "Ford V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1967 AC Cobra 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_AC_Cobra_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, AC Cobra."
+  },
+  {
+   "id": "alfa-romeo-4c-spider-2016",
+   "title": "2016 Alfa Romeo 4C Spider",
+   "detail": "1.75L turbo inline-four · Italy",
+   "image": {
+    "wikimedia": "2016 Alfa Romeo 4C Spider TBi 5.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Alfa_Romeo_4C_Spider_TBi_5.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo 4C."
+  },
+  {
+   "id": "ferrari-456-gt-1995",
+   "title": "1995 Ferrari 456 GT",
+   "detail": "5.5L V12 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2018 - Ferrari 456 GT - 1995 - 005.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Ferrari_456_GT_-_1995_-_005.jpg"
+   },
+   "verified": "Commons category: 1995 Ferrari 456 GT s/n 102488. Specs: Wikipedia, Ferrari 456."
+  },
+  {
+   "id": "porsche-914-1970",
+   "title": "1970 Porsche 914",
+   "detail": "Mid-engine boxer · Germany",
+   "image": {
+    "wikimedia": "1970 Porsche 914 (34413).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1970_Porsche_914_(34413).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 914."
+  },
+  {
+   "id": "pontiac-firebird-1972",
+   "title": "1972 Pontiac Firebird",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1972 Pontiac Firebird (18842279561).jpg"
+   },
+   "credit": {
+    "author": "GPS 56 from New Zealand",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Pontiac_Firebird_(18842279561).jpg"
+   },
+   "verified": "Commons category: 1972 Pontiac Firebird. Specs: Wikipedia, Pontiac Firebird (second generation)."
+  },
+  {
+   "id": "fiat-124-sport-spider-1980",
+   "title": "1980 Fiat 124 Sport Spider",
+   "detail": "Inline-four · Italy",
+   "image": {
+    "wikimedia": "1980 Fiat 124 Sport Spider.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1980_Fiat_124_Sport_Spider.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Fiat 124 Sport Spider."
+  },
+  {
+   "id": "koenigsegg-ccx-2006",
+   "title": "2006 Koenigsegg CCX",
+   "detail": "4.7L twin-supercharged V8 · Sweden",
+   "image": {
+    "wikimedia": "2006 Koenigsegg CCX 6.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2006_Koenigsegg_CCX_6.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Koenigsegg CCX."
+  },
+  {
+   "id": "mercedes-benz-slr-mclaren-722-s-2009",
+   "title": "2009 Mercedes-Benz SLR McLaren 722 S",
+   "detail": "5.4L supercharged V8 · Germany",
+   "image": {
+    "wikimedia": "2009 Mercedes-Benz SLR McLaren 722S SP 22.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Mercedes-Benz_SLR_McLaren_722S_SP_22.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz SLR McLaren."
+  },
+  {
+   "id": "mg-f-1-8i-vvc-1997",
+   "title": "1997 MG F 1.8i VVC",
+   "detail": "Mid-engine inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1997 MG MGF 1.8 I VVC (8113512875).jpg"
+   },
+   "credit": {
+    "author": "free photos & art",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1997_MG_MGF_1.8_I_VVC_(8113512875).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, MG F / MG TF."
+  },
+  {
+   "id": "pagani-utopia-2024",
+   "title": "2024 Pagani Utopia",
+   "detail": "Twin-turbo V12 · Italy",
+   "image": {
+    "wikimedia": "2024 Pagani Utopia (no. 26) in Yellow and Black, front right2.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Pagani_Utopia_(no._26)_in_Yellow_and_Black,_front_right2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Pagani Utopia."
+  },
+  {
+   "id": "aston-martin-v12-vantage-roadster-2023",
+   "title": "2023 Aston Martin V12 Vantage Roadster",
+   "detail": "5.2L twin-turbo V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2023 Aston Martin Vantage V12 Roadster car 83 SCD 24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Aston_Martin_Vantage_V12_Roadster_car_83_SCD_24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin Vantage (2018)."
+  },
+  {
+   "id": "ferrari-308-gtsi-1982",
+   "title": "1982 Ferrari 308 GTSi",
+   "detail": "2.9L V8 · Italy",
+   "image": {
+    "wikimedia": "1982 Ferrari 308 GTSi.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1982_Ferrari_308_GTSi.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 308 GTB/GTS."
+  },
+  {
+   "id": "maserati-3500-gti-1963",
+   "title": "1963 Maserati 3500 GTI",
+   "detail": "3.5L inline-six · Italy",
+   "image": {
+    "wikimedia": "1963 Maserati 3500 GTI - Automuzeum Gostyń.jpg"
+   },
+   "credit": {
+    "author": "flyz1",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1963_Maserati_3500_GTI_-_Automuzeum_Gosty%C5%84.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati 3500 GT."
+  },
+  {
+   "id": "mercedes-benz-ssk-1928",
+   "title": "1928 Mercedes-Benz SSK",
+   "detail": "Supercharged inline-six · Germany",
+   "image": {
+    "wikimedia": "Mercedes-Benz SSK 1928 (MSP15).JPG"
+   },
+   "credit": {
+    "author": "Jakub \"Flyz1\" Maciejewski",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SSK_1928_(MSP15).JPG"
+   },
+   "verified": "Commons category: 1928 Mercedes-Benz SSK. Specs: Wikipedia, Mercedes-Benz SSK."
+  },
+  {
+   "id": "chevrolet-corvette-2001",
+   "title": "2001 Chevrolet Corvette",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "2001 Chevrolet Corvette (34854347060).jpg"
+   },
+   "credit": {
+    "author": "Hugh Llewelyn from Keynsham, UK",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2001_Chevrolet_Corvette_(34854347060).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Chevrolet Corvette (C5)."
+  },
+  {
+   "id": "mitsubishi-3000gt-sl-1991",
+   "title": "1991 Mitsubishi 3000GT SL",
+   "detail": "3.0L V6 · Japan",
+   "image": {
+    "wikimedia": "1991 Mitsubishi 3000GT SL Automatic.jpg"
+   },
+   "credit": {
+    "author": "Rutger van der Maar",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1991_Mitsubishi_3000GT_SL_Automatic.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mitsubishi GTO."
+  },
+  {
+   "id": "bmw-z4-sdrive30i-2020",
+   "title": "2020 BMW Z4 sDrive30i",
+   "detail": "Front-engine roadster · Germany",
+   "image": {
+    "wikimedia": "2020 BMW Z4 SDrive30i in Black Sapphire Metallic, Front Right, 05-21-2022.jpg"
+   },
+   "credit": {
+    "author": "Elise240SX",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_BMW_Z4_SDrive30i_in_Black_Sapphire_Metallic,_Front_Right,_05-21-2022.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW Z4 (G29)."
+  },
+  {
+   "id": "ferrari-365-gtc-4-1972",
+   "title": "1972 Ferrari 365 GTC/4",
+   "detail": "4.4L V12 · Italy",
+   "image": {
+    "wikimedia": "Ferrari 365 GTC 4 (1972) (52863099444).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_365_GTC_4_(1972)_(52863099444).jpg"
+   },
+   "verified": "Commons category: 1972 Ferrari 365 GTC/4 s/n 15125. Specs: Wikipedia, Ferrari 365 GTC/4."
+  },
+  {
+   "id": "ford-gt-2005",
+   "title": "2005 Ford GT",
+   "detail": "5.4L supercharged V8 · USA",
+   "image": {
+    "wikimedia": "2005 Ford GT, Motul Trans Sport Show 2024, 05-25-2024.jpg"
+   },
+   "credit": {
+    "author": "Ethan Llamas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Ford_GT,_Motul_Trans_Sport_Show_2024,_05-25-2024.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ford GT."
+  },
+  {
+   "id": "chevrolet-corvette-427-convertible-1968",
+   "title": "1968 Chevrolet Corvette 427 Convertible",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1968 Chevrolet C3 Corvette 427 Convertible (22811317954).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1968_Chevrolet_C3_Corvette_427_Convertible_(22811317954).jpg"
+   },
+   "verified": "Commons category: 1968 Chevrolet Corvette. Specs: Wikipedia, Chevrolet Corvette (C3)."
+  },
+  {
+   "id": "honda-nsx-1993",
+   "title": "1993 Honda NSX",
+   "detail": "3.0L V6 · Japan",
+   "image": {
+    "wikimedia": "1993 Honda NSX.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1993_Honda_NSX.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Honda NSX (first generation)."
+  },
+  {
+   "id": "subaru-brz-limited-2022",
+   "title": "2022 Subaru BRZ Limited",
+   "detail": "Flat-four · Japan",
+   "image": {
+    "wikimedia": "2022 Subaru BRZ Limited in Crystal Black Silica, front right (NYIAS 2022).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Subaru_BRZ_Limited_in_Crystal_Black_Silica,_front_right_(NYIAS_2022).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Subaru BRZ."
+  },
+  {
+   "id": "dodge-challenger-1971",
+   "title": "1971 Dodge Challenger",
+   "detail": "Front-engine muscle car · USA",
+   "image": {
+    "wikimedia": "1971 Dodge Challenger (28853541364).jpg"
+   },
+   "credit": {
+    "author": "GPS 56 from New Zealand",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1971_Dodge_Challenger_(28853541364).jpg"
+   },
+   "verified": "Commons category: 1971 Dodge Challenger. Specs: Wikipedia, Dodge Challenger (1970)."
+  },
+  {
+   "id": "mclaren-650s-spider-2015",
+   "title": "2015 McLaren 650S Spider",
+   "detail": "3.8L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2015 McLaren 650S Spider, carbon fiber pack.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_McLaren_650S_Spider,_carbon_fiber_pack.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren 650S."
+  },
+  {
+   "id": "fiat-dino-2400-spider-1970",
+   "title": "1970 Fiat Dino 2400 Spider",
+   "detail": "V6 · Italy",
+   "image": {
+    "wikimedia": "Paris - Bonhams 2016 - Fiat Dino 2400 Spider - 1970 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2016_-_Fiat_Dino_2400_Spider_-_1970_-_001.jpg"
+   },
+   "verified": "Commons category: 1970 Fiat Dino Spider s/n 1254. Specs: Wikipedia, Fiat Dino."
+  },
+  {
+   "id": "maserati-merak-1973",
+   "title": "1973 Maserati Merak",
+   "detail": "V6 · Italy",
+   "image": {
+    "wikimedia": "1973 Maserati Merak 2+2 Coupe (30570315377).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Maserati_Merak_2%2B2_Coupe_(30570315377).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati Merak."
+  },
+  {
+   "id": "ferrari-512-tr-1993",
+   "title": "1993 Ferrari 512 TR",
+   "detail": "4.9L flat-12 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2018 - Ferrari 512 TR - 1993 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Ferrari_512_TR_-_1993_-_001.jpg"
+   },
+   "verified": "Commons category: 1993 Ferrari 512 TR s/n 96850. Specs: Wikipedia, Ferrari Testarossa."
+  },
+  {
+   "id": "lotus-emira-v6-2026",
+   "title": "2026 Lotus Emira V6",
+   "detail": "Mid-engine · United Kingdom",
+   "image": {
+    "wikimedia": "2026 Lotus Emira V6 SE Scura, front right (Greenwich 2026).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026_Lotus_Emira_V6_SE_Scura,_front_right_(Greenwich_2026).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Emira."
+  },
+  {
+   "id": "porsche-911-turbo-cabriolet-flachbau-930-1988",
+   "title": "1988 Porsche 911 Turbo Cabriolet Flachbau (930)",
+   "detail": "3.3L turbo flat-six · Germany",
+   "image": {
+    "wikimedia": "1988 Porsche 930 Turbo Cabriolet Flachbau, front right (Hershey 2019).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1988_Porsche_930_Turbo_Cabriolet_Flachbau,_front_right_(Hershey_2019).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 930."
+  },
+  {
+   "id": "jaguar-xkss-1957",
+   "title": "1957 Jaguar XKSS",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1957 Jaguar XKSS no.769.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1957_Jaguar_XKSS_no.769.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XKSS."
+  },
+  {
+   "id": "ferrari-599-gtb-fiorano-2009",
+   "title": "2009 Ferrari 599 GTB Fiorano",
+   "detail": "6.0L V12 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2018 - Ferrari 599 GTB - 2009 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Ferrari_599_GTB_-_2009_-_001.jpg"
+   },
+   "verified": "Commons category: 2009 Ferrari 599 GTB s/n 167984. Specs: Wikipedia, Ferrari 599."
+  },
+  {
+   "id": "lamborghini-400-gt-1966",
+   "title": "1966 Lamborghini 400 GT",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "1966 Lamborghini 400 GT HC.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1966_Lamborghini_400_GT_HC.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini 400 GT."
+  },
+  {
+   "id": "mercedes-benz-380-slc-1981",
+   "title": "1981 Mercedes-Benz 380 SLC",
+   "detail": "3.8L V8 · Germany",
+   "image": {
+    "wikimedia": "1981 Mercedes 380 SLC Auto R107.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1981_Mercedes_380_SLC_Auto_R107.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz R107 and C107."
+  },
+  {
+   "id": "nissan-skyline-gt-r-v-spec-ii-1994",
+   "title": "1994 Nissan Skyline GT-R V-Spec II",
+   "detail": "2.6L twin-turbo inline-six · Japan",
+   "image": {
+    "wikimedia": "1994 Nissan Skyline GT-R V-Spec II N1 no.10, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1994_Nissan_Skyline_GT-R_V-Spec_II_N1_no.10,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Nissan Skyline GT-R."
+  },
+  {
+   "id": "ferrari-roma-2023",
+   "title": "2023 Ferrari Roma",
+   "detail": "Twin-turbo V8 · Italy",
+   "image": {
+    "wikimedia": "2023 Ferrari Roma 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Ferrari_Roma_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari Roma."
+  },
+  {
+   "id": "porsche-911-gt3-rs-991-2019",
+   "title": "2019 Porsche 911 GT3 RS (991)",
+   "detail": "4.0L flat-six · Germany",
+   "image": {
+    "wikimedia": "2019 Porsche 911 991 GT3 RS (24801).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Porsche_911_991_GT3_RS_(24801).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 991."
+  },
+  {
+   "id": "mclaren-gt-2022",
+   "title": "2022 McLaren GT",
+   "detail": "4.0L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2022 McLaren GT 10.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_McLaren_GT_10.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren GT."
+  },
+  {
+   "id": "maserati-mc12-2005",
+   "title": "2005 Maserati MC12",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "2005 Maserati MC12 in Fuji White and Blue, front left (Miller).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_Maserati_MC12_in_Fuji_White_and_Blue,_front_left_(Miller).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati MC12."
+  },
+  {
+   "id": "koenigsegg-jesko-2023",
+   "title": "2023 Koenigsegg Jesko",
+   "detail": "5.0L twin-turbo V8 · Sweden",
+   "image": {
+    "wikimedia": "2023 Koenigsegg Jesko Left LC24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Koenigsegg_Jesko_Left_LC24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Koenigsegg Jesko."
+  },
+  {
+   "id": "ferrari-f12berlinetta-2014",
+   "title": "2014 Ferrari F12berlinetta",
+   "detail": "6.3L V12 · Italy",
+   "image": {
+    "wikimedia": "2014 Ferrari F12 Berlinetta in Red, front right (Brooklyn).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014_Ferrari_F12_Berlinetta_in_Red,_front_right_(Brooklyn).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari F12berlinetta."
+  },
+  {
+   "id": "bmw-8-series-1995",
+   "title": "1995 BMW 8 Series",
+   "detail": "Front-engine coupe · Germany",
+   "image": {
+    "wikimedia": "1995 BMW E31 8 Series Coupe (46138484524).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1995_BMW_E31_8_Series_Coupe_(46138484524).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW 8 Series (E31)."
+  },
+  {
+   "id": "lamborghini-gallardo-superleggera-2008",
+   "title": "2008 Lamborghini Gallardo Superleggera",
+   "detail": "V10 · Italy",
+   "image": {
+    "wikimedia": "2008 Lamborghini Gallardo Superleggera 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Lamborghini_Gallardo_Superleggera_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Gallardo."
+  },
+  {
+   "id": "mercedes-benz-300-sl-roadster-1957",
+   "title": "1957 Mercedes-Benz 300 SL Roadster",
+   "detail": "3.0L inline-six · Germany",
+   "image": {
+    "wikimedia": "1957 Mercedes-Benz 300SL Roadster HCC21.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1957_Mercedes-Benz_300SL_Roadster_HCC21.jpg"
+   },
+   "verified": "Commons category: 1957 Mercedes-Benz 300 SL Roadster. Specs: Wikipedia, Mercedes-Benz 300 SL."
+  },
+  {
+   "id": "porsche-959-1992",
+   "title": "1992 Porsche 959",
+   "detail": "2.8L twin-turbo flat-six · Germany",
+   "image": {
+    "wikimedia": "1992 Porsche 959 SP22.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1992_Porsche_959_SP22.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 959."
+  },
+  {
+   "id": "jaguar-xk-2008",
+   "title": "2008 Jaguar XK",
+   "detail": "V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2008 Jaguar XK.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Jaguar_XK.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XK (X150)."
+  },
+  {
+   "id": "ferrari-512-bb-1978",
+   "title": "1978 Ferrari 512 BB",
+   "detail": "Flat-12 · Italy",
+   "image": {
+    "wikimedia": "1978 Ferrari 512 BB at Quail 2022 front.jpg"
+   },
+   "credit": {
+    "author": "Prova MO",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1978_Ferrari_512_BB_at_Quail_2022_front.jpg"
+   },
+   "verified": "Commons category: 1978 Ferrari 512 BB s/n 22613. Specs: Wikipedia, Ferrari Berlinetta Boxer."
+  },
+  {
+   "id": "alfa-romeo-giulia-gt-1967",
+   "title": "1967 Alfa Romeo Giulia GT",
+   "detail": "Inline-four · Italy",
+   "image": {
+    "wikimedia": "1967 Alfa Romeo Giulia.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Alfa_Romeo_Giulia.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo 105/115 Series Coupés."
+  },
+  {
+   "id": "lancia-aurelia-b20-gt-1951",
+   "title": "1951 Lancia Aurelia B20 GT",
+   "detail": "V6 · Italy",
+   "image": {
+    "wikimedia": "1951 Lancia Aurelia GT 1a Serie, front left (Greenwich).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1951_Lancia_Aurelia_GT_1a_Serie,_front_left_(Greenwich).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lancia Aurelia."
+  },
+  {
+   "id": "fiat-x1-9-1978",
+   "title": "1978 Fiat X1/9",
+   "detail": "Inline-four · Italy",
+   "image": {
+    "wikimedia": "1978 Fiat X1-9 sports (30922809300).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1978_Fiat_X1-9_sports_(30922809300).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Fiat X1/9."
+  },
+  {
+   "id": "ferrari-328-gts-1988",
+   "title": "1988 Ferrari 328 GTS",
+   "detail": "3.2L V8 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2016 - Ferrari 328 GTS - 1988 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2016_-_Ferrari_328_GTS_-_1988_-_001.jpg"
+   },
+   "verified": "Commons category: 1988 Ferrari 328 GTS s/n 75926. Specs: Wikipedia, Ferrari 328."
+  },
+  {
+   "id": "dodge-viper-rt-10-1995",
+   "title": "1995 Dodge Viper RT/10",
+   "detail": "V10 · USA",
+   "image": {
+    "wikimedia": "1995 Dodge Viper RT10 in Greenwich, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1995_Dodge_Viper_RT10_in_Greenwich,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Dodge Viper."
+  },
+  {
+   "id": "alpine-a110-1967",
+   "title": "1967 Alpine A110",
+   "detail": "Rear-engine inline-four · France",
+   "image": {
+    "wikimedia": "1967 Alpine A110 GT4.jpg"
+   },
+   "credit": {
+    "author": "Handelsgeselschaft",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Alpine_A110_GT4.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alpine A110 (1961)."
+  },
+  {
+   "id": "lamborghini-huracan-lp610-4-2014",
+   "title": "2014 Lamborghini Huracán LP610-4",
+   "detail": "5.2L V10 · Italy",
+   "image": {
+    "wikimedia": "2014 Lamborghini Huracan LP610-4.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014_Lamborghini_Huracan_LP610-4.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Huracán."
+  },
+  {
+   "id": "donkervoort-d8-150-2000",
+   "title": "2000 Donkervoort D8 150",
+   "detail": "Front-engine lightweight · Netherlands",
+   "image": {
+    "wikimedia": "2000 Donkervoort D8-150.jpg"
+   },
+   "credit": {
+    "author": "Joost J. Bakker IJmuiden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2000_Donkervoort_D8-150.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Donkervoort D8."
+  },
+  {
+   "id": "bugatti-type-57-1934",
+   "title": "1934 Bugatti Type 57",
+   "detail": "3.3L inline-eight · France",
+   "image": {
+    "wikimedia": "1934 Bugatti Type 57 Stelvio Classic-Gala 2025 DSC 1007.jpg"
+   },
+   "credit": {
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1934_Bugatti_Type_57_Stelvio_Classic-Gala_2025_DSC_1007.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Bugatti Type 57."
+  },
+  {
+   "id": "jaguar-xk8-2004",
+   "title": "2004 Jaguar XK8",
+   "detail": "V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2004 Jaguar XK8 X100 Coupe (16005617022).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2004_Jaguar_XK8_X100_Coupe_(16005617022).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XK (X100)."
+  },
+  {
+   "id": "lamborghini-countach-lp400-periscopio-1975",
+   "title": "1975 Lamborghini Countach LP400 Periscopio",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "1975 Lamborghini Countach LP400 Periscopo 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1975_Lamborghini_Countach_LP400_Periscopo_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Countach."
+  },
+  {
+   "id": "tvr-sagaris-2005",
+   "title": "2005 TVR Sagaris",
+   "detail": "4.0L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "2005 TVR Sagaris (12795).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2005_TVR_Sagaris_(12795).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, TVR Sagaris."
+  },
+  {
+   "id": "porsche-boxster-spyder-2011",
+   "title": "2011 Porsche Boxster Spyder",
+   "detail": "Mid-engine flat-six · Germany",
+   "image": {
+    "wikimedia": "2011 Porsche Boxster Spyder (94106).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Porsche_Boxster_Spyder_(94106).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche Boxster and Cayman (987)."
+  },
+  {
+   "id": "ferrari-f8-tributo-2020",
+   "title": "2020 Ferrari F8 Tributo",
+   "detail": "3.9L twin-turbo V8 · Italy",
+   "image": {
+    "wikimedia": "2020 Ferrari F8 Tributo sf25.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_Ferrari_F8_Tributo_sf25.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari F8."
+  },
+  {
+   "id": "lamborghini-murcielago-lp640-4-2009",
+   "title": "2009 Lamborghini Murciélago LP640-4",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "2009 Lamborghini Murcielago LP640-4 SCD 24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Lamborghini_Murcielago_LP640-4_SCD_24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Murciélago."
+  },
+  {
+   "id": "renault-alpine-gta-v6-turbo-1987",
+   "title": "1987 Renault Alpine GTA V6 Turbo",
+   "detail": "Rear-engine V6 · France",
+   "image": {
+    "wikimedia": "1987 Renault Alpine GTA V6 Turbo coupe (28716919962).jpg"
+   },
+   "credit": {
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1987_Renault_Alpine_GTA_V6_Turbo_coupe_(28716919962).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alpine GTA."
+  },
+  {
+   "id": "lotus-turbo-esprit-1985",
+   "title": "1985 Lotus Turbo Esprit",
+   "detail": "Mid-engine · United Kingdom",
+   "image": {
+    "wikimedia": "1985 Lotus Turbo Esprit awaiting work, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1985_Lotus_Turbo_Esprit_awaiting_work,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Esprit."
+  },
+  {
+   "id": "ferrari-testarossa-1987",
+   "title": "1987 Ferrari Testarossa",
+   "detail": "4.9L flat-12 · Italy",
+   "image": {
+    "wikimedia": "Paris - Bonhams 2016 - Ferrari Testarossa coupé - 1987 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2016_-_Ferrari_Testarossa_coup%C3%A9_-_1987_-_001.jpg"
+   },
+   "verified": "Commons category: 1987 Ferrari Testarossa s/n 68793. Specs: Wikipedia, Ferrari Testarossa."
+  },
+  {
+   "id": "mercedes-benz-sl-320-1993",
+   "title": "1993 Mercedes-Benz SL 320",
+   "detail": "Front-engine roadster · Germany",
+   "image": {
+    "wikimedia": "1993 Mercedes-Benz SL 320 Roadster (8066732915).jpg"
+   },
+   "credit": {
+    "author": "free photos & art",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1993_Mercedes-Benz_SL_320_Roadster_(8066732915).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz SL-Class (R129)."
+  },
+  {
+   "id": "mazda-rx-7-r2-1994",
+   "title": "1994 Mazda RX-7 R2",
+   "detail": "1.3L twin-turbo rotary · Japan",
+   "image": {
+    "wikimedia": "1994 Mazda RX-7 R2 in Vintage Red, front left (Lime Rock).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1994_Mazda_RX-7_R2_in_Vintage_Red,_front_left_(Lime_Rock).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda RX-7."
+  },
+  {
+   "id": "iso-grifo-1969",
+   "title": "1969 Iso Grifo",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "1969 Iso Grifo in Rosso Chiaro (Darren Frank), front left, at Greenwich 2019.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Iso_Grifo_in_Rosso_Chiaro_(Darren_Frank),_front_left,_at_Greenwich_2019.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Iso Grifo."
+  },
+  {
+   "id": "mclaren-speedtail-2020",
+   "title": "2020 McLaren Speedtail",
+   "detail": "Twin-turbo V8 hybrid · United Kingdom",
+   "image": {
+    "wikimedia": "2020 McLaren Speedtail in Kilo Gray, front left (Greenwich 2022).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_McLaren_Speedtail_in_Kilo_Gray,_front_left_(Greenwich_2022).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren Speedtail."
+  },
+  {
+   "id": "maserati-bora-1973",
+   "title": "1973 Maserati Bora",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "1973 Maserati Bora in Greenwich.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Maserati_Bora_in_Greenwich.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati Bora."
+  },
+  {
+   "id": "lotus-evora-gte-2012",
+   "title": "2012 Lotus Evora GTE",
+   "detail": "3.5L V6 · United Kingdom",
+   "image": {
+    "wikimedia": "2012 Lotus Evora GTE.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Lotus_Evora_GTE.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Evora."
+  },
+  {
+   "id": "lamborghini-jarama-s-1975",
+   "title": "1975 Lamborghini Jarama S",
+   "detail": "3.9L V12 · Italy",
+   "image": {
+    "wikimedia": "1975 Lamborghini Jarama S (8530772069).jpg"
+   },
+   "credit": {
+    "author": "Spanish Coches",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1975_Lamborghini_Jarama_S_(8530772069).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Jarama."
+  },
+  {
+   "id": "aston-martin-db11-2017",
+   "title": "2017 Aston Martin DB11",
+   "detail": "Front-engine GT · United Kingdom",
+   "image": {
+    "wikimedia": "2017 Aston Martin DB11 SCD 24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_Aston_Martin_DB11_SCD_24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DB11."
+  },
+  {
+   "id": "ferrari-612-scaglietti-2006",
+   "title": "2006 Ferrari 612 Scaglietti",
+   "detail": "5.7L V12 · Italy",
+   "image": {
+    "wikimedia": "2006 Ferrari 612 Scaglietti (7153996247).jpg"
+   },
+   "credit": {
+    "author": "Spanish Coches",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2006_Ferrari_612_Scaglietti_(7153996247).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 612 Scaglietti."
+  },
+  {
+   "id": "mg-td-1951",
+   "title": "1951 MG TD",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1951 MG TD Roadster (16013298245).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1951_MG_TD_Roadster_(16013298245).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, MG T-type."
+  },
+  {
+   "id": "spyker-c8-laviolette-2009",
+   "title": "2009 Spyker C8 Laviolette",
+   "detail": "Audi V8 · Netherlands",
+   "image": {
+    "wikimedia": "2009 Spyker C8 Laviolette Coupe.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Spyker_C8_Laviolette_Coupe.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Spyker C8."
+  },
+  {
+   "id": "ariel-atom-2021",
+   "title": "2021 Ariel Atom",
+   "detail": "Mid-engine lightweight · United Kingdom",
+   "image": {
+    "wikimedia": "2021 Ariel Atom AR13 LSR.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Ariel_Atom_AR13_LSR.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ariel Atom."
+  },
+  {
+   "id": "porsche-356-1500-super-1952",
+   "title": "1952 Porsche 356 1500 Super",
+   "detail": "Flat-four · Germany",
+   "image": {
+    "wikimedia": "1952 Porsche 356 1500 Super in Black (Greenwich), front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1952_Porsche_356_1500_Super_in_Black_(Greenwich),_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 356."
+  },
+  {
+   "id": "lamborghini-miura-p400-s-1970",
+   "title": "1970 Lamborghini Miura P400 S",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "1970 Lamborghini Miura P400 S.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1970_Lamborghini_Miura_P400_S.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Miura."
+  },
+  {
+   "id": "ford-gt-lm-edition-2022",
+   "title": "2022 Ford GT LM Edition",
+   "detail": "3.5L twin-turbo V6 · USA",
+   "image": {
+    "wikimedia": "2022 Ford GT LM Edition HCC25.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Ford_GT_LM_Edition_HCC25.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ford GT."
+  },
+  {
+   "id": "fiat-barchetta-1996",
+   "title": "1996 Fiat Barchetta",
+   "detail": "Inline-four · Italy",
+   "image": {
+    "wikimedia": "1996 Fiat Barchetta - Flickr - dave 7 (1).jpg"
+   },
+   "credit": {
+    "author": "dave_7 from Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1996_Fiat_Barchetta_-_Flickr_-_dave_7_(1).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Fiat Barchetta."
+  },
+  {
+   "id": "bmw-m3-evolution-1991",
+   "title": "1991 BMW M3 Evolution",
+   "detail": "2.3L inline-four · Germany",
+   "image": {
+    "wikimedia": "1991 BMW M3 Evolution.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1991_BMW_M3_Evolution.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW M3."
+  },
+  {
+   "id": "lexus-lfa-2011",
+   "title": "2011 Lexus LFA",
+   "detail": "4.8L V10 · 553 hp",
+   "image": {
+    "wikimedia": "2011 Lexus LFA SP 22.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Lexus_LFA_SP_22.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lexus LFA."
+  },
+  {
+   "id": "koenigsegg-regera-2021",
+   "title": "2021 Koenigsegg Regera",
+   "detail": "5.0L twin-turbo V8 hybrid · Sweden",
+   "image": {
+    "wikimedia": "2021 Koenigsegg Regera 5.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Koenigsegg_Regera_5.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Koenigsegg Regera."
+  },
+  {
+   "id": "ferrari-275-gtb-1965",
+   "title": "1965 Ferrari 275 GTB",
+   "detail": "3.3L V12 · Italy",
+   "image": {
+    "wikimedia": "1965 Ferrari 275 GTB 6C.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1965_Ferrari_275_GTB_6C.jpg"
+   },
+   "verified": "Commons category: 1965 Ferrari 275 GTB s/n 06639. Specs: Wikipedia, Ferrari 275."
+  },
+  {
+   "id": "triumph-tr4-1963",
+   "title": "1963 Triumph TR4",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1963 Triumph TR4 Roadster (12096728943).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1963_Triumph_TR4_Roadster_(12096728943).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph TR4."
+  },
+  {
+   "id": "lamborghini-countach-lpi-800-4-2022",
+   "title": "2022 Lamborghini Countach LPI 800-4",
+   "detail": "6.5L V12 hybrid · Italy",
+   "image": {
+    "wikimedia": "2022 Lamborghini Countach.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Lamborghini_Countach.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Countach LPI 800-4."
+  },
+  {
+   "id": "lotus-evija-2023",
+   "title": "2023 Lotus Evija",
+   "detail": "Electric · United Kingdom",
+   "image": {
+    "wikimedia": "2023 Lotus Evija 5.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Lotus_Evija_5.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Evija."
+  },
+  {
+   "id": "ferrari-575m-maranello-2002",
+   "title": "2002 Ferrari 575M Maranello",
+   "detail": "5.7L V12 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2018 - Ferrari 575M Maranello - 2002 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Ferrari_575M_Maranello_-_2002_-_001.jpg"
+   },
+   "verified": "Commons category: 2002 Ferrari 575M Maranello s/n 128466. Specs: Wikipedia, Ferrari 575M Maranello."
+  },
+  {
+   "id": "alpine-a110-pure-2021",
+   "title": "2021 Alpine A110 Pure",
+   "detail": "Turbo inline-four · France",
+   "image": {
+    "wikimedia": "2021 Alpine A110 Pure LC.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Alpine_A110_Pure_LC.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alpine A110 (2016)."
+  },
+  {
+   "id": "jaguar-f-type-2020",
+   "title": "2020 Jaguar F-Type",
+   "detail": "Front-engine sports car · United Kingdom",
+   "image": {
+    "wikimedia": "2020 Jaguar F-Type coupe.jpg"
+   },
+   "credit": {
+    "author": "Hugh Llewelyn",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_Jaguar_F-Type_coupe.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar F-Type."
+  },
+  {
+   "id": "ac-ace-1957",
+   "title": "1957 AC Ace",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1957 AC Ace.jpg"
+   },
+   "credit": {
+    "author": "Dave Hamster",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1957_AC_Ace.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, AC Ace."
+  },
+  {
+   "id": "ferrari-portofino-2018",
+   "title": "2018 Ferrari Portofino",
+   "detail": "3.9L twin-turbo V8 · Italy",
+   "image": {
+    "wikimedia": "2018 Ferrari Portofino S-A 3.9 Front.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Ferrari_Portofino_S-A_3.9_Front.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari Portofino."
+  },
+  {
+   "id": "alpine-a610-turbo-1993",
+   "title": "1993 Alpine A610 Turbo",
+   "detail": "3.0L turbo V6 · France",
+   "image": {
+    "wikimedia": "1993 Alpine A610 Turbo.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1993_Alpine_A610_Turbo.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alpine A610."
+  },
+  {
+   "id": "mazda-cosmo-sport-1969",
+   "title": "1969 Mazda Cosmo Sport",
+   "detail": "Twin-rotor Wankel · Japan",
+   "image": {
+    "wikimedia": "1969 Mazda Cosmo 3.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Mazda_Cosmo_3.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda Cosmo."
+  },
+  {
+   "id": "porsche-911-turbo-993-1995",
+   "title": "1995 Porsche 911 Turbo (993)",
+   "detail": "3.6L twin-turbo flat-six · Germany",
+   "image": {
+    "wikimedia": "1995 Porsche 911 993 Turbo (65641).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1995_Porsche_911_993_Turbo_(65641).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 993."
+  },
+  {
+   "id": "sunbeam-tiger-1967",
+   "title": "1967 Sunbeam Tiger",
+   "detail": "Ford V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1967 Sunbeam Tiger 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1967_Sunbeam_Tiger_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Sunbeam Tiger."
+  },
+  {
+   "id": "aston-martin-dbs-superleggera-2019",
+   "title": "2019 Aston Martin DBS Superleggera",
+   "detail": "5.2L twin-turbo V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2019 Aston Martin DBS Superleggera V12 Auto 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Aston_Martin_DBS_Superleggera_V12_Auto_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DBS Superleggera."
+  },
+  {
+   "id": "mercedes-benz-sl-55-amg-2003",
+   "title": "2003 Mercedes-Benz SL 55 AMG",
+   "detail": "Front-engine roadster · Germany",
+   "image": {
+    "wikimedia": "2003 Mercedes SL 55 AMG Convertible.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2003_Mercedes_SL_55_AMG_Convertible.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz SL-Class (R230)."
+  },
+  {
+   "id": "jaguar-xj220-1993",
+   "title": "1993 Jaguar XJ220",
+   "detail": "3.5L twin-turbo V6 · 542 hp",
+   "image": {
+    "wikimedia": "1993 Jaguar XJ220 SP 23.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1993_Jaguar_XJ220_SP_23.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XJ220."
+  },
+  {
+   "id": "maserati-ghibli-spyder-1969",
+   "title": "1969 Maserati Ghibli Spyder",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "1969 Maserati Ghibli Spyder.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Maserati_Ghibli_Spyder.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati Ghibli (AM115)."
+  },
+  {
+   "id": "aston-martin-db2-4-bertone-coupe-1954",
+   "title": "1954 Aston Martin DB2/4 Bertone Coupé",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1954 Aston Martin DB2-4 Coupé by Bertone, front right (Greenwich).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1954_Aston_Martin_DB2-4_Coup%C3%A9_by_Bertone,_front_right_(Greenwich).jpg"
+   },
+   "verified": "Commons category: 1954 Aston Martin DB2/4 Bertone Coupe LML/765. Specs: Wikipedia, Aston Martin DB2/4."
+  },
+  {
+   "id": "alpine-a310-1978",
+   "title": "1978 Alpine A310",
+   "detail": "Rear-engine · France",
+   "image": {
+    "wikimedia": "1978 Alpine A310.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1978_Alpine_A310.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alpine A310."
+  },
+  {
+   "id": "jaguar-xk120-fixed-head-coupe-1953",
+   "title": "1953 Jaguar XK120 Fixed Head Coupe",
+   "detail": "3.4L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1953 Jaguar XK120 Fixed Head Coupe (29724705407).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1953_Jaguar_XK120_Fixed_Head_Coupe_(29724705407).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XK120."
+  },
+  {
+   "id": "lotus-elan-1996",
+   "title": "1996 Lotus Elan",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1996 Lotus Elan M100.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1996_Lotus_Elan_M100.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Elan (M100)."
+  },
+  {
+   "id": "dino-246-gt-1969",
+   "title": "1969 Dino 246 GT",
+   "detail": "2.4L V6 · Italy",
+   "image": {
+    "wikimedia": "1969 Dino 246 GT, GIMS 2024, Le Grand-Saconnex (GIMS0202).jpg"
+   },
+   "credit": {
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Dino_246_GT,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0202).jpg"
+   },
+   "verified": "Commons category: 1969 Dino 246 GT. Specs: Wikipedia, Dino 206 GT and 246 GT."
+  },
+  {
+   "id": "chevrolet-corvette-sting-ray-1964",
+   "title": "1964 Chevrolet Corvette Sting Ray",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1964 Chevrolet Corvette Sting Ray \"GM Styling Special\", front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1964_Chevrolet_Corvette_Sting_Ray_%22GM_Styling_Special%22,_front_right.jpg"
+   },
+   "verified": "Commons category: 1964 Chevrolet Corvette. Specs: Wikipedia, Chevrolet Corvette (C2)."
+  },
+  {
+   "id": "jaguar-xk140-1956",
+   "title": "1956 Jaguar XK140",
+   "detail": "3.4L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1956 Jaguar XK140 HCC22.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1956_Jaguar_XK140_HCC22.jpg"
+   },
+   "verified": "Commons category: 1956 Jaguar XK140. Specs: Wikipedia, Jaguar XK140."
+  },
+  {
+   "id": "mclaren-570s-2017",
+   "title": "2017 McLaren 570S",
+   "detail": "3.8L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2017 McLaren 570S, blue, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2017_McLaren_570S,_blue,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren 570S."
+  },
+  {
+   "id": "porsche-944-1989",
+   "title": "1989 Porsche 944",
+   "detail": "Inline-four · Germany",
+   "image": {
+    "wikimedia": "1989 Porsche 944 in Indischrot, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1989_Porsche_944_in_Indischrot,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 944."
+  },
+  {
+   "id": "maserati-granturismo-2018",
+   "title": "2018 Maserati GranTurismo",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "2018 Maserati GranTurismo Sport Auto.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Maserati_GranTurismo_Sport_Auto.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati GranTurismo."
+  },
+  {
+   "id": "morgan-plus-4-super-sports-1961",
+   "title": "1961 Morgan Plus 4 Super Sports",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1961 Morgan +4 Super Sport.jpg"
+   },
+   "credit": {
+    "author": "Dave Hamster",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1961_Morgan_%2B4_Super_Sport.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Morgan Plus 4."
+  },
+  {
+   "id": "mclaren-elva-2021",
+   "title": "2021 McLaren Elva",
+   "detail": "4.0L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2021 McLaren Elva 4.0 Front.jpg"
+   },
+   "credit": {
+    "author": "Liam Walker",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_McLaren_Elva_4.0_Front.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren Elva."
+  },
+  {
+   "id": "porsche-918-spyder-2015",
+   "title": "2015 Porsche 918 Spyder",
+   "detail": "4.6L V8 hybrid · Germany",
+   "image": {
+    "wikimedia": "2015 Porsche 918 Spyder (26526).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Porsche_918_Spyder_(26526).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 918 Spyder."
+  },
+  {
+   "id": "chevrolet-corvette-stingray-2022",
+   "title": "2022 Chevrolet Corvette Stingray",
+   "detail": "Mid-engine V8 · USA",
+   "image": {
+    "wikimedia": "2022 Chevrolet Corvette C8 Stingray Auto 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Chevrolet_Corvette_C8_Stingray_Auto_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Chevrolet Corvette (C8)."
+  },
+  {
+   "id": "hennessey-venom-f5-2022",
+   "title": "2022 Hennessey Venom F5",
+   "detail": "6.6L twin-turbo V8 · USA",
+   "image": {
+    "wikimedia": "2022 Hennessey Venom F5.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Hennessey_Venom_F5.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Hennessey Venom F5."
+  },
+  {
+   "id": "fiat-8v-1952",
+   "title": "1952 Fiat 8V",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "1952 Fiat 8V Vetroresina.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1952_Fiat_8V_Vetroresina.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Fiat 8V."
+  },
+  {
+   "id": "tvr-griffith-1999",
+   "title": "1999 TVR Griffith",
+   "detail": "Rover V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1999 TVR Griffith 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1999_TVR_Griffith_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, TVR Griffith."
+  },
+  {
+   "id": "lotus-exige-s-roadster-2015",
+   "title": "2015 Lotus Exige S Roadster",
+   "detail": "Mid-engine · United Kingdom",
+   "image": {
+    "wikimedia": "2015 Lotus Exige S Premium Roadster.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Lotus_Exige_S_Premium_Roadster.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Exige."
+  },
+  {
+   "id": "mazda-mx-5-2012",
+   "title": "2012 Mazda MX-5",
+   "detail": "Inline-four · Japan",
+   "image": {
+    "wikimedia": "2012 Mazda MX-5 Venture Edition.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Mazda_MX-5_Venture_Edition.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda MX-5 (NC)."
+  },
+  {
+   "id": "aston-martin-v8-1977",
+   "title": "1977 Aston Martin V8",
+   "detail": "5.3L V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1977 Aston Martin V8.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1977_Aston_Martin_V8.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin V8."
+  },
+  {
+   "id": "datsun-sports-2000-sr311-1968",
+   "title": "1968 Datsun Sports 2000 (SR311)",
+   "detail": "2.0L inline-four · Japan",
+   "image": {
+    "wikimedia": "1968 Datsun SR311 Sports 2000 (25860066881).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1968_Datsun_SR311_Sports_2000_(25860066881).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Datsun Sports."
+  },
+  {
+   "id": "bmw-e9-coupe-1974",
+   "title": "1974 BMW E9 Coupé",
+   "detail": "Inline-six · Germany",
+   "image": {
+    "wikimedia": "1974 BMW E9 - 01.jpg"
+   },
+   "credit": {
+    "author": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1974_BMW_E9_-_01.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW E9."
+  },
+  {
+   "id": "mclaren-mp4-12c-spider-2012",
+   "title": "2012 McLaren MP4-12C Spider",
+   "detail": "3.8L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2012 McLaren MP4-12C Spider.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_McLaren_MP4-12C_Spider.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren 12C."
+  },
+  {
+   "id": "morgan-plus-8-1971",
+   "title": "1971 Morgan Plus 8",
+   "detail": "Rover V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1971 Morgan Plus 8 in Ivory and Dark Green, front right1.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1971_Morgan_Plus_8_in_Ivory_and_Dark_Green,_front_right1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Morgan Plus 8."
+  },
+  {
+   "id": "lotus-elise-r-2007",
+   "title": "2007 Lotus Elise R",
+   "detail": "Mid-engine inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "2007 Lotus Elise R Tour & Sports.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2007_Lotus_Elise_R_Tour_%26_Sports.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Elise."
+  },
+  {
+   "id": "ferrari-f40-1990",
+   "title": "1990 Ferrari F40",
+   "detail": "2.9L twin-turbo V8 · 471 hp",
+   "image": {
+    "wikimedia": "Paris - Bonhams 2015 - Ferrari F40 Berlinetta - 1990 - 002.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2015_-_Ferrari_F40_Berlinetta_-_1990_-_002.jpg"
+   },
+   "verified": "Commons category: 1990 Ferrari F40 s/n 84052. Specs: Wikipedia, Ferrari F40."
+  },
+  {
+   "id": "mclaren-senna-2019",
+   "title": "2019 McLaren Senna",
+   "detail": "4.0L twin-turbo V8 · 789 hp",
+   "image": {
+    "wikimedia": "2019 McLaren Senna (Teddy Vlock), front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_McLaren_Senna_(Teddy_Vlock),_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren Senna."
+  },
+  {
+   "id": "mercedes-benz-300-sl-gullwing-1955",
+   "title": "1955 Mercedes-Benz 300 SL Gullwing",
+   "detail": "3.0L inline-six · Germany",
+   "image": {
+    "wikimedia": "Mercedes-Benz 300 SL Coupé (W 198, 1955) (55082502994).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_300_SL_Coup%C3%A9_(W_198,_1955)_(55082502994).jpg"
+   },
+   "verified": "Commons category: 1955 Mercedes-Benz W198 300 SL Gullwing. Specs: Wikipedia, Mercedes-Benz 300 SL."
+  },
+  {
+   "id": "tvr-cerbera-1999",
+   "title": "1999 TVR Cerbera",
+   "detail": "Front-engine coupe · United Kingdom",
+   "image": {
+    "wikimedia": "1999 TVR Cerbera 4.0.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1999_TVR_Cerbera_4.0.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, TVR Cerbera."
+  },
+  {
+   "id": "maserati-a6g-2000-zagato-1955",
+   "title": "1955 Maserati A6G 2000 Zagato",
+   "detail": "2.0L inline-six · Italy",
+   "image": {
+    "wikimedia": "Maserati A6G 54 2000 Gran Turismo by Zagato (1955) (52561587960).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maserati_A6G_54_2000_Gran_Turismo_by_Zagato_(1955)_(52561587960).jpg"
+   },
+   "verified": "Commons category: 1955 Maserati A6G 2000 Zagato Coupe s/n 2108. Specs: Wikipedia, Maserati A6."
+  },
+  {
+   "id": "ssc-tuatara-striker-2024",
+   "title": "2024 SSC Tuatara Striker",
+   "detail": "5.9L twin-turbo V8 · USA",
+   "image": {
+    "wikimedia": "SSC Tuatara Striker (2024) (54869830611).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:SSC_Tuatara_Striker_(2024)_(54869830611).jpg"
+   },
+   "verified": "Model and year in the Commons file name. Specs: Wikipedia, SSC Tuatara."
+  },
+  {
+   "id": "aston-martin-vulcan-2015",
+   "title": "2015 Aston Martin Vulcan",
+   "detail": "7.0L V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2015 Aston Martin Vulcan 7.0 Front.jpg"
+   },
+   "credit": {
+    "author": "Chelsea Jay",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Aston_Martin_Vulcan_7.0_Front.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin Vulcan."
+  },
+  {
+   "id": "porsche-boxster-1998",
+   "title": "1998 Porsche Boxster",
+   "detail": "Mid-engine flat-six · Germany",
+   "image": {
+    "wikimedia": "1998 Porsche Boxster Roadster (34425627974).jpg"
+   },
+   "credit": {
+    "author": "Hugh Llewelyn from Keynsham, UK",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1998_Porsche_Boxster_Roadster_(34425627974).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche Boxster (986)."
+  },
+  {
+   "id": "maserati-khamsin-1976",
+   "title": "1976 Maserati Khamsin",
+   "detail": "4.9L V8 · Italy",
+   "image": {
+    "wikimedia": "1976 Maserati Khamsin 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1976_Maserati_Khamsin_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati Khamsin."
+  },
+  {
+   "id": "mercedes-benz-540k-1937",
+   "title": "1937 Mercedes-Benz 540K",
+   "detail": "Supercharged 5.4L inline-eight · Germany",
+   "image": {
+    "wikimedia": "1937 Mercedes-Benz 540 K C IAA 2021 1X7A0242.jpg"
+   },
+   "credit": {
+    "author": "Alexander Migl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1937_Mercedes-Benz_540_K_C_IAA_2021_1X7A0242.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz 540K."
+  },
+  {
+   "id": "aston-martin-db7-1995",
+   "title": "1995 Aston Martin DB7",
+   "detail": "Front-engine GT · United Kingdom",
+   "image": {
+    "wikimedia": "1995 Aston Martin DB7 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1995_Aston_Martin_DB7_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DB7."
+  },
+  {
+   "id": "jaguar-xjs-4-0-1994",
+   "title": "1994 Jaguar XJS 4.0",
+   "detail": "Front-engine GT · United Kingdom",
+   "image": {
+    "wikimedia": "1994 Jaguar XJS 4.0 Auto.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1994_Jaguar_XJS_4.0_Auto.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XJS."
+  },
+  {
+   "id": "tvr-tuscan-speed-six-2001",
+   "title": "2001 TVR Tuscan Speed Six",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "2001 TVR Tuscan 4.0.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2001_TVR_Tuscan_4.0.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, TVR Tuscan Speed Six."
+  },
+  {
+   "id": "mg-tc-midget-1947",
+   "title": "1947 MG TC Midget",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1947 MG TC Midget.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1947_MG_TC_Midget.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, MG T-type."
+  },
+  {
+   "id": "mercedes-amg-one-2023",
+   "title": "2023 Mercedes-AMG One",
+   "detail": "1.6L turbo V6 hybrid · Germany",
+   "image": {
+    "wikimedia": "2023 Mercedes-AMG One in Black and Turquoise, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Mercedes-AMG_One_in_Black_and_Turquoise,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-AMG One."
+  },
+  {
+   "id": "bmw-i8-2019",
+   "title": "2019 BMW i8",
+   "detail": "1.5L turbo three hybrid · Germany",
+   "image": {
+    "wikimedia": "2019 BMW i8 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_BMW_i8_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW i8."
+  },
+  {
+   "id": "triumph-gt6-mk-iii-1971",
+   "title": "1971 Triumph GT6 Mk III",
+   "detail": "2.0L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1971 Triumph GT6 MK III.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1971_Triumph_GT6_MK_III.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph GT6."
+  },
+  {
+   "id": "jaguar-c-type-1953",
+   "title": "1953 Jaguar C-Type",
+   "detail": "3.4L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1953 Jaguar C-Type (50144048613).png"
+   },
+   "credit": {
+    "author": "Al R from Philadelphia, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1953_Jaguar_C-Type_(50144048613).png"
+   },
+   "verified": "Commons category: 1953 Jaguar C-Type in the Simeone Foundation Automotive Museum. Specs: Wikipedia, Jaguar C-Type."
+  },
+  {
+   "id": "alfa-romeo-33-stradale-1968",
+   "title": "1968 Alfa Romeo 33 Stradale",
+   "detail": "2.0L V8 · Italy",
+   "image": {
+    "wikimedia": "1968 Alfa Romeo 33 Stradale, front right (Miller).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1968_Alfa_Romeo_33_Stradale,_front_right_(Miller).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo 33 Stradale."
+  },
+  {
+   "id": "aston-martin-db2-1950",
+   "title": "1950 Aston Martin DB2",
+   "detail": "2.6L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "ASTON MARTIN DB2 1950 (33609334284).jpg"
+   },
+   "credit": {
+    "author": "Falcon® Photography from France",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ASTON_MARTIN_DB2_1950_(33609334284).jpg"
+   },
+   "verified": "Commons category: 1950 Aston Martin DB2 LML/50/13. Specs: Wikipedia, Aston Martin DB2."
+  },
+  {
+   "id": "shelby-cobra-daytona-coupe-1964",
+   "title": "1964 Shelby Cobra Daytona Coupe",
+   "detail": "Ford V8 · USA",
+   "image": {
+    "wikimedia": "1964 Cobra Daytona Coupe (50144108957).png"
+   },
+   "credit": {
+    "author": "Al R",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1964_Cobra_Daytona_Coupe_(50144108957).png"
+   },
+   "verified": "Commons category: 1964 Shelby Cobra Daytona Coupe in the Simeone Foundation Automotive Museum. Specs: Wikipedia, Shelby Daytona."
+  },
+  {
+   "id": "nissan-300zx-twin-turbo-1995",
+   "title": "1995 Nissan 300ZX Twin Turbo",
+   "detail": "3.0L V6 · Japan",
+   "image": {
+    "wikimedia": "1995 Nissan 300ZX Twin Turbo.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1995_Nissan_300ZX_Twin_Turbo.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Nissan 300ZX."
+  },
+  {
+   "id": "lancia-aurelia-b24-convertible-1956",
+   "title": "1956 Lancia Aurelia B24 Convertible",
+   "detail": "2.5L V6 · Italy",
+   "image": {
+    "wikimedia": "1956 Lancia Aurelia B24 Convertible (27631022107).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1956_Lancia_Aurelia_B24_Convertible_(27631022107).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lancia Aurelia."
+  },
+  {
+   "id": "aston-martin-vanquish-s-2005",
+   "title": "2005 Aston Martin Vanquish S",
+   "detail": "5.9L V12 · United Kingdom",
+   "image": {
+    "wikimedia": "Aston Martin Vanquish S (2005) (53765408987).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aston_Martin_Vanquish_S_(2005)_(53765408987).jpg"
+   },
+   "verified": "Model and year in the Commons file name. Specs: Wikipedia, Aston Martin Vanquish."
+  },
+  {
+   "id": "porsche-911-turbo-cabriolet-997-2009",
+   "title": "2009 Porsche 911 Turbo Cabriolet (997)",
+   "detail": "3.6L twin-turbo flat-six · Germany",
+   "image": {
+    "wikimedia": "2009 Porsche 911 997 Turbo Cabriolet.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Porsche_911_997_Turbo_Cabriolet.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 997."
+  },
+  {
+   "id": "ferrari-275-gts-1966",
+   "title": "1966 Ferrari 275 GTS",
+   "detail": "3.3L V12 · Italy",
+   "image": {
+    "wikimedia": "Ferrari 275 GTS (1966) (52862442660).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_275_GTS_(1966)_(52862442660).jpg"
+   },
+   "verified": "Commons category: 1966 Ferrari 275 GTS s/n 08335. Specs: Wikipedia, Ferrari 275."
+  },
+  {
+   "id": "bmw-328-1937",
+   "title": "1937 BMW 328",
+   "detail": "2.0L inline-six · Germany",
+   "image": {
+    "wikimedia": "1937 BMW 328 in Green, front left (Greenwich 2025).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1937_BMW_328_in_Green,_front_left_(Greenwich_2025).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW 328."
+  },
+  {
+   "id": "cord-812-phaeton-1937",
+   "title": "1937 Cord 812 Phaeton",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1937 Cord 812 Phaeton HCC24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1937_Cord_812_Phaeton_HCC24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Cord 810/812."
+  },
+  {
+   "id": "bugatti-divo-2020",
+   "title": "2020 Bugatti Divo",
+   "detail": "Quad-turbo W16 · France",
+   "image": {
+    "wikimedia": "2020 Bugatti Divo 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_Bugatti_Divo_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Bugatti Divo."
+  },
+  {
+   "id": "ferrari-f50-1997",
+   "title": "1997 Ferrari F50",
+   "detail": "4.7L V12 · 513 hp",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2016 - Ferrari F50 - 1997 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2016_-_Ferrari_F50_-_1997_-_001.jpg"
+   },
+   "verified": "Commons category: 1997 Ferrari F50 s/n 106825. Specs: Wikipedia, Ferrari F50."
+  },
+  {
+   "id": "bmw-z1-1990",
+   "title": "1990 BMW Z1",
+   "detail": "2.5L inline-six · Germany",
+   "image": {
+    "wikimedia": "1990 BMW Z1 2.5.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1990_BMW_Z1_2.5.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW Z1."
+  },
+  {
+   "id": "lamborghini-sian-fkp-37-2021",
+   "title": "2021 Lamborghini Sián FKP 37",
+   "detail": "V12 hybrid · Italy",
+   "image": {
+    "wikimedia": "2021 Lamborghini Sian HRO26.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Lamborghini_Sian_HRO26.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Sián FKP 37."
+  },
+  {
+   "id": "jensen-interceptor-iii-1976",
+   "title": "1976 Jensen Interceptor III",
+   "detail": "Chrysler V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1976 Jensen Interceptor Coupe III.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1976_Jensen_Interceptor_Coupe_III.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jensen Interceptor."
+  },
+  {
+   "id": "ferrari-288-gto-1984",
+   "title": "1984 Ferrari 288 GTO",
+   "detail": "2.9L twin-turbo V8 · 400 hp",
+   "image": {
+    "wikimedia": "Ferrari GTO (16034997125).jpg"
+   },
+   "credit": {
+    "author": "Maurizio Cefariello",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_GTO_(16034997125).jpg"
+   },
+   "verified": "Commons category: 1984 Ferrari 288 GTO s/n 50255. Specs: Wikipedia, Ferrari 288 GTO."
+  },
+  {
+   "id": "porsche-911-targa-4-gts-992-2024",
+   "title": "2024 Porsche 911 Targa 4 GTS (992)",
+   "detail": "Flat-six · Germany",
+   "image": {
+    "wikimedia": "2024 Porsche 911 992 Targa 4 GTS.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Porsche_911_992_Targa_4_GTS.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 992."
+  },
+  {
+   "id": "dodge-charger-daytona-1969",
+   "title": "1969 Dodge Charger Daytona",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1969 Dodge Charger Daytona (13419983895) (cropped).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Dodge_Charger_Daytona_(13419983895)_(cropped).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Dodge Charger Daytona."
+  },
+  {
+   "id": "mazda-mx-5-miata-1994",
+   "title": "1994 Mazda MX-5 Miata",
+   "detail": "Inline-four · Japan",
+   "image": {
+    "wikimedia": "1994 Mazda MX-5 Miata in Red, front right (Brooklyn).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1994_Mazda_MX-5_Miata_in_Red,_front_right_(Brooklyn).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda MX-5 (NA)."
+  },
+  {
+   "id": "ferrari-365-gtb-4-daytona-1971",
+   "title": "1971 Ferrari 365 GTB/4 Daytona",
+   "detail": "4.4L V12 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2016 - Ferrari 365 GTB-4 Daytona Berinetta - 1971 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2016_-_Ferrari_365_GTB-4_Daytona_Berinetta_-_1971_-_001.jpg"
+   },
+   "verified": "Commons category: 1971 Ferrari 365 GTB/4 s/n 14093. Specs: Wikipedia, Ferrari Daytona."
+  },
+  {
+   "id": "talbot-matra-murena-1984",
+   "title": "1984 Talbot-Matra Murena",
+   "detail": "Mid-engine inline-four · France",
+   "image": {
+    "wikimedia": "1984 Talbot-Matra Murena.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1984_Talbot-Matra_Murena.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Matra Murena."
+  },
+  {
+   "id": "koenigsegg-cc8s-2002",
+   "title": "2002 Koenigsegg CC8S",
+   "detail": "Supercharged V8 · Sweden",
+   "image": {
+    "wikimedia": "2002 Koenigsegg CC8S.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2002_Koenigsegg_CC8S.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Koenigsegg CC8S."
+  },
+  {
+   "id": "audi-quattro-turbo-1989",
+   "title": "1989 Audi Quattro Turbo",
+   "detail": "Turbocharged inline-five · Germany",
+   "image": {
+    "wikimedia": "1989 Audi Quattro Turbo 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1989_Audi_Quattro_Turbo_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Audi Quattro."
+  },
+  {
+   "id": "alfa-romeo-sz-1991",
+   "title": "1991 Alfa Romeo SZ",
+   "detail": "3.0L V6 · Italy",
+   "image": {
+    "wikimedia": "1991 Alfa Romeo SZ 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:1991_Alfa_Romeo_SZ_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo SZ."
+  },
+  {
+   "id": "ferrari-mondial-quattrovalvole-1983",
+   "title": "1983 Ferrari Mondial Quattrovalvole",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2016 - Ferrari Mondial QV - 1983 - 002.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2016_-_Ferrari_Mondial_QV_-_1983_-_002.jpg"
+   },
+   "verified": "Commons category: 1983 Ferrari Mondial QV s/n 48643. Specs: Wikipedia, Ferrari Mondial."
+  },
+  {
+   "id": "chevrolet-camaro-1969",
+   "title": "1969 Chevrolet Camaro",
+   "detail": "V8 or inline-six · USA",
+   "image": {
+    "wikimedia": "1969 Chevrolet Camaro 327 (17301802463).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_327_(17301802463).jpg"
+   },
+   "verified": "Commons category: 1969 Chevrolet Camaro. Specs: Wikipedia, Chevrolet Camaro (first generation)."
+  },
+  {
+   "id": "ford-gt40-1965",
+   "title": "1965 Ford GT40",
+   "detail": "Ford V8 · USA",
+   "image": {
+    "wikimedia": "1965 Ford GT40 (31176376833).jpg"
+   },
+   "credit": {
+    "author": "David Merrett from Daventry, England",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1965_Ford_GT40_(31176376833).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ford GT40."
+  },
+  {
+   "id": "aston-martin-db9-gt-2016",
+   "title": "2016 Aston Martin DB9 GT",
+   "detail": "5.9L V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2016 Aston Martin DB9 GT Auto.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Aston_Martin_DB9_GT_Auto.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DB9."
+  },
+  {
+   "id": "ferrari-f355-challenge-1995",
+   "title": "1995 Ferrari F355 Challenge",
+   "detail": "3.5L V8 · Italy",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2018 - Ferrari F355 Challenge - 1995 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2018_-_Ferrari_F355_Challenge_-_1995_-_001.jpg"
+   },
+   "verified": "Commons category: 1995 Ferrari F355 Challenge s/n 101523. Specs: Wikipedia, Ferrari F355."
+  },
+  {
+   "id": "nissan-gt-r-2011",
+   "title": "2011 Nissan GT-R",
+   "detail": "3.8L twin-turbo V6 · Japan",
+   "image": {
+    "wikimedia": "2011 Nissan GTR (5482973739).jpg"
+   },
+   "credit": {
+    "author": "Michael Gil from Calgary, AB, Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Nissan_GTR_(5482973739).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Nissan GT-R."
+  },
+  {
+   "id": "tvr-chimaera-400-1994",
+   "title": "1994 TVR Chimaera 400",
+   "detail": "Rover V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1994 TVR Chimaera 400 in Starfire Mica Blue, front right (Greenwich 2022).jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1994_TVR_Chimaera_400_in_Starfire_Mica_Blue,_front_right_(Greenwich_2022).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, TVR Chimaera."
+  },
+  {
+   "id": "noble-m600-carbon-sport-2013",
+   "title": "2013 Noble M600 Carbon Sport",
+   "detail": "4.4L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2013 Noble M600 Carbon Sport 4.4.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2013_Noble_M600_Carbon_Sport_4.4.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Noble M600."
+  },
+  {
+   "id": "lotus-elan-sprint-1972",
+   "title": "1972 Lotus Elan Sprint",
+   "detail": "1.6L twin-cam inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1972 Lotus Elan Sprint in Lotus Yellow, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Lotus_Elan_Sprint_in_Lotus_Yellow,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Elan."
+  },
+  {
+   "id": "ferrari-monza-sp2-2020",
+   "title": "2020 Ferrari Monza SP2",
+   "detail": "6.5L V12 · Italy",
+   "image": {
+    "wikimedia": "Ferrari Monza SP2 (2020) (52340073453).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Monza_SP2_(2020)_(52340073453).jpg"
+   },
+   "verified": "Model and year in the Commons file name. Specs: Wikipedia, Ferrari Monza SP."
+  },
+  {
+   "id": "lamborghini-urraco-1974",
+   "title": "1974 Lamborghini Urraco",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "1974 Lamborghini Urraco BS O24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1974_Lamborghini_Urraco_BS_O24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Urraco."
+  },
+  {
+   "id": "suzuki-cappuccino-1993",
+   "title": "1993 Suzuki Cappuccino",
+   "detail": "0.66L turbo inline-three · Japan",
+   "image": {
+    "wikimedia": "1993 Suzuki Cappuccino.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1993_Suzuki_Cappuccino.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Suzuki Cappuccino."
+  },
+  {
+   "id": "de-tomaso-mangusta-1969",
+   "title": "1969 De Tomaso Mangusta",
+   "detail": "Ford V8 · Italy",
+   "image": {
+    "wikimedia": "1969 De Tomaso Mangusta in Gold, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_De_Tomaso_Mangusta_in_Gold,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, De Tomaso Mangusta."
+  },
+  {
+   "id": "peugeot-rcz-2010",
+   "title": "2010 Peugeot RCZ",
+   "detail": "Front-engine coupe · France",
+   "image": {
+    "wikimedia": "2010 Peugeot RCZ (15281922928).jpg"
+   },
+   "credit": {
+    "author": "free photos & art",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2010_Peugeot_RCZ_(15281922928).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Peugeot RCZ."
+  },
+  {
+   "id": "bmw-z4-3-0i-2003",
+   "title": "2003 BMW Z4 3.0i",
+   "detail": "Front-engine roadster · Germany",
+   "image": {
+    "wikimedia": "2003 BMW Z4 3.0i.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2003_BMW_Z4_3.0i.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW Z4 (E85)."
+  },
+  {
+   "id": "lamborghini-espada-1972",
+   "title": "1972 Lamborghini Espada",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "1972 Lamborghini Espada 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Lamborghini_Espada_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Espada."
+  },
+  {
+   "id": "aston-martin-dbs-v12-2011",
+   "title": "2011 Aston Martin DBS V12",
+   "detail": "5.9L V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2011 Aston Martin DBS V12 Auto.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Aston_Martin_DBS_V12_Auto.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin DBS V12."
+  },
+  {
+   "id": "ferrari-812-gts-2020",
+   "title": "2020 Ferrari 812 GTS",
+   "detail": "6.5L V12 · Italy",
+   "image": {
+    "wikimedia": "2020 Ferrari 812 GTS.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020_Ferrari_812_GTS.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 812 Superfast."
+  },
+  {
+   "id": "mazda-rx-7-gtu-1989",
+   "title": "1989 Mazda RX-7 GTU",
+   "detail": "Rotary engine · Japan",
+   "image": {
+    "wikimedia": "1989 Mazda RX-7 GTU in Noble White, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1989_Mazda_RX-7_GTU_in_Noble_White,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda RX-7."
+  },
+  {
+   "id": "porsche-904-carrera-gts-1964",
+   "title": "1964 Porsche 904 Carrera GTS",
+   "detail": "Flat-four · Germany",
+   "image": {
+    "wikimedia": "1964 Porsche 904 Carrera GTS at PB 2022.jpg"
+   },
+   "credit": {
+    "author": "Prova MO",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1964_Porsche_904_Carrera_GTS_at_PB_2022.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 904."
+  },
+  {
+   "id": "lotus-seven-1969",
+   "title": "1969 Lotus Seven",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1969 Lotus Seven.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1969_Lotus_Seven.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Seven."
+  },
+  {
+   "id": "lamborghini-temerario-2025",
+   "title": "2025 Lamborghini Temerario",
+   "detail": "Twin-turbo V8 hybrid · Italy",
+   "image": {
+    "wikimedia": "2025 Lamborghini Temerario.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Lamborghini_Temerario.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Temerario."
+  },
+  {
+   "id": "ferrari-550-maranello-1999",
+   "title": "1999 Ferrari 550 Maranello",
+   "detail": "5.5L V12 · Italy",
+   "image": {
+    "wikimedia": "Paris - Bonhams 2016 - Ferrari 550 Maranello coupé - 1999 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_Bonhams_2016_-_Ferrari_550_Maranello_coup%C3%A9_-_1999_-_001.jpg"
+   },
+   "verified": "Commons category: 1999 Ferrari 550 Maranello s/n 111048. Specs: Wikipedia, Ferrari 550."
+  },
+  {
+   "id": "porsche-911-carrera-2-964-1992",
+   "title": "1992 Porsche 911 Carrera 2 (964)",
+   "detail": "3.6L flat-six · Germany",
+   "image": {
+    "wikimedia": "1992 Porsche 911 964 Carrera 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1992_Porsche_911_964_Carrera_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 964."
+  },
+  {
+   "id": "austin-healey-3000-1964",
+   "title": "1964 Austin-Healey 3000",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1964 Austin Healey 3000 (51353616654).jpg"
+   },
+   "credit": {
+    "author": "David Merrett from Daventry, England",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1964_Austin_Healey_3000_(51353616654).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Austin-Healey 3000."
+  },
+  {
+   "id": "mclaren-artura-2023",
+   "title": "2023 McLaren Artura",
+   "detail": "3.0L twin-turbo V6 hybrid · United Kingdom",
+   "image": {
+    "wikimedia": "2023 McLaren Artura in Supernova Silver, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_McLaren_Artura_in_Supernova_Silver,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren Artura."
+  },
+  {
+   "id": "lamborghini-350-gt-1965",
+   "title": "1965 Lamborghini 350 GT",
+   "detail": "3.5L V12 · Italy",
+   "image": {
+    "wikimedia": "1965 Lamborghini 350 GT in Blu Notte, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1965_Lamborghini_350_GT_in_Blu_Notte,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini 350 GT."
+  },
+  {
+   "id": "triumph-tr6-1973",
+   "title": "1973 Triumph TR6",
+   "detail": "2.5L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1973 Triumph TR6 Roadster (16313636976).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1973_Triumph_TR6_Roadster_(16313636976).jpg"
+   },
+   "verified": "Commons category: 1973 Triumph TR6. Specs: Wikipedia, Triumph TR6."
+  },
+  {
+   "id": "lancia-montecarlo-spider-1982",
+   "title": "1982 Lancia Montecarlo Spider",
+   "detail": "Inline-four · Italy",
+   "image": {
+    "wikimedia": "1982 Lancia Montecarlo Spider S2 CMS.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1982_Lancia_Montecarlo_Spider_S2_CMS.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lancia Beta Montecarlo."
+  },
+  {
+   "id": "mclaren-720s-2022",
+   "title": "2022 McLaren 720S",
+   "detail": "4.0L twin-turbo V8 · 710 hp",
+   "image": {
+    "wikimedia": "2022 McLaren 720S 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_McLaren_720S_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, McLaren 720S."
+  },
+  {
+   "id": "lamborghini-islero-1968",
+   "title": "1968 Lamborghini Islero",
+   "detail": "3.9L V12 · Italy",
+   "image": {
+    "wikimedia": "1968 Lamborghini Islero 400 GT HCC24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1968_Lamborghini_Islero_400_GT_HCC24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Islero."
+  },
+  {
+   "id": "jaguar-e-type-series-3-1975",
+   "title": "1975 Jaguar E-Type Series 3",
+   "detail": "5.3L V12 · United Kingdom",
+   "image": {
+    "wikimedia": "1975 Jaguar E-Type Series 3.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1975_Jaguar_E-Type_Series_3.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar E-Type."
+  },
+  {
+   "id": "nissan-skyline-gt-r-v-spec-1999",
+   "title": "1999 Nissan Skyline GT-R V-Spec",
+   "detail": "2.6L twin-turbo inline-six · Japan",
+   "image": {
+    "wikimedia": "1999 Nissan Skyline GT-R V-Spec I.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1999_Nissan_Skyline_GT-R_V-Spec_I.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Nissan Skyline GT-R."
+  },
+  {
+   "id": "bugatti-chiron-2018",
+   "title": "2018 Bugatti Chiron",
+   "detail": "8.0L quad-turbo W16 · France",
+   "image": {
+    "wikimedia": "2018 Bugatti Chiron in Exposed Blue Carbon, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Bugatti_Chiron_in_Exposed_Blue_Carbon,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Bugatti Chiron."
+  },
+  {
+   "id": "porsche-928-1980",
+   "title": "1980 Porsche 928",
+   "detail": "V8 · Germany",
+   "image": {
+    "wikimedia": "1980 Porsche 928 Cabriolet BB.jpg"
+   },
+   "credit": {
+    "author": "Rutger van der Maar",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1980_Porsche_928_Cabriolet_BB.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 928."
+  },
+  {
+   "id": "shelby-gt500-1968",
+   "title": "1968 Shelby GT500",
+   "detail": "Ford V8 · USA",
+   "image": {
+    "wikimedia": "Shelby Mustang (41000811730).jpg"
+   },
+   "credit": {
+    "author": "FotoSleuth",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shelby_Mustang_(41000811730).jpg"
+   },
+   "verified": "Commons category: 1968 Shelby GT500. Specs: Wikipedia, Shelby Mustang."
+  },
+  {
+   "id": "lamborghini-diablo-vt-2001",
+   "title": "2001 Lamborghini Diablo VT",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "2001 Lamborghini Diablo VT 9.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2001_Lamborghini_Diablo_VT_9.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Diablo."
+  },
+  {
+   "id": "laferrari-2014",
+   "title": "2014 LaFerrari",
+   "detail": "6.3L V12 hybrid · Italy",
+   "image": {
+    "wikimedia": "Laferrari (16939226089).jpg"
+   },
+   "credit": {
+    "author": "Ben",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Laferrari_(16939226089).jpg"
+   },
+   "verified": "Commons category: 2014 LaFerrari s/n 204189. Specs: Wikipedia, LaFerrari."
+  },
+  {
+   "id": "austin-healey-sprite-1958",
+   "title": "1958 Austin-Healey Sprite",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1958 Austin-Healey Sprite 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1958_Austin-Healey_Sprite_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Austin-Healey Sprite."
+  },
+  {
+   "id": "honda-nsx-2019",
+   "title": "2019 Honda NSX",
+   "detail": "3.5L twin-turbo V6 hybrid · Japan",
+   "image": {
+    "wikimedia": "2019 Honda NSX Auto 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Honda_NSX_Auto_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Honda NSX (second generation)."
+  },
+  {
+   "id": "maserati-mc20-2023",
+   "title": "2023 Maserati MC20",
+   "detail": "3.0L twin-turbo V6 · Italy",
+   "image": {
+    "wikimedia": "2023 Maserati MC20 in Digital Mint, front right.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_Maserati_MC20_in_Digital_Mint,_front_right.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati MC20."
+  },
+  {
+   "id": "ferrari-ff-2015",
+   "title": "2015 Ferrari FF",
+   "detail": "6.3L V12 · Italy",
+   "image": {
+    "wikimedia": "2015 Gumball 3000 - Ferrari FF.jpg"
+   },
+   "credit": {
+    "author": "Frankie Fouganthin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Gumball_3000_-_Ferrari_FF.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari FF."
+  },
+  {
+   "id": "morgan-aero-8-2007",
+   "title": "2007 Morgan Aero 8",
+   "detail": "BMW V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2007 Morgan Aero 8 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2007_Morgan_Aero_8_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Morgan Aero 8."
+  },
+  {
+   "id": "aston-martin-db4-1959",
+   "title": "1959 Aston Martin DB4",
+   "detail": "3.7L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1959 Aston Martin DB4.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1959_Aston_Martin_DB4.jpg"
+   },
+   "verified": "Commons category: 1959 Aston Martin DB4 S1 126/R. Specs: Wikipedia, Aston Martin DB4."
+  },
+  {
+   "id": "delorean-dmc-12-1983",
+   "title": "1983 DeLorean DMC-12",
+   "detail": "2.85L V6 · USA",
+   "image": {
+    "wikimedia": "DMC DeLorean (1983) (54559363563).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DMC_DeLorean_(1983)_(54559363563).jpg"
+   },
+   "verified": "Model and year in the Commons file name. Specs: Wikipedia, DMC DeLorean."
+  },
+  {
+   "id": "ferrari-california-2009",
+   "title": "2009 Ferrari California",
+   "detail": "V8 · Italy",
+   "image": {
+    "wikimedia": "2009 Ferrari California 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Ferrari_California_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari California."
+  },
+  {
+   "id": "maserati-3200-gt-2001",
+   "title": "2001 Maserati 3200 GT",
+   "detail": "3.2L twin-turbo V8 · Italy",
+   "image": {
+    "wikimedia": "2001 Maserati 3200 GT (M338) coupe (2015-07-14) 01.jpg"
+   },
+   "credit": {
+    "author": "OSX",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:2001_Maserati_3200_GT_(M338)_coupe_(2015-07-14)_01.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati 3200 GT."
+  },
+  {
+   "id": "aston-martin-v8-vantage-n430-2014",
+   "title": "2014 Aston Martin V8 Vantage N430",
+   "detail": "V8 or V12 · United Kingdom",
+   "image": {
+    "wikimedia": "2014 Aston Martin Vantage V8 N430.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014_Aston_Martin_Vantage_V8_N430.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin Vantage (2005)."
+  },
+  {
+   "id": "lamborghini-reventon-2008",
+   "title": "2008 Lamborghini Reventón",
+   "detail": "6.5L V12 · Italy",
+   "image": {
+    "wikimedia": "2008 Lamborghini Reventon SP24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Lamborghini_Reventon_SP24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Reventón."
+  },
+  {
+   "id": "vector-w8-1990",
+   "title": "1990 Vector W8",
+   "detail": "6.0L twin-turbo V8 · USA",
+   "image": {
+    "wikimedia": "1990 Vector W8 Twin Turbo sports car (Ank Kumar, Infosys Limited) 03.jpg"
+   },
+   "credit": {
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1990_Vector_W8_Twin_Turbo_sports_car_(Ank_Kumar,_Infosys_Limited)_03.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Vector W8."
+  },
+  {
+   "id": "ferrari-250-gto-1962",
+   "title": "1962 Ferrari 250 GTO",
+   "detail": "3.0L V12 · Italy",
+   "image": {
+    "wikimedia": "Ferrari 250 GTO (19545792638).jpg"
+   },
+   "credit": {
+    "author": "ilikewaffles11",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GTO_(19545792638).jpg"
+   },
+   "verified": "Commons category: 1962 Ferrari 250 GTO s/n 3387GT. Specs: Wikipedia, Ferrari 250 GTO."
+  },
+  {
+   "id": "mg-midget-1974",
+   "title": "1974 MG Midget",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1974 MG Midget, Blenheim Classics Auto Show, Blenheim, Ontario, 2025-06-21.jpg"
+   },
+   "credit": {
+    "author": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1974_MG_Midget,_Blenheim_Classics_Auto_Show,_Blenheim,_Ontario,_2025-06-21.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, MG Midget."
+  },
+  {
+   "id": "tesla-roadster-2008",
+   "title": "2008 Tesla Roadster",
+   "detail": "Electric · USA",
+   "image": {
+    "wikimedia": "2008 Tesla Roadster Petersen Automotive Museum.jpg"
+   },
+   "credit": {
+    "author": "TaurusEmerald",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Tesla_Roadster_Petersen_Automotive_Museum.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Tesla Roadster (first generation)."
+  },
+  {
+   "id": "porsche-912-1965",
+   "title": "1965 Porsche 912",
+   "detail": "Flat-four · Germany",
+   "image": {
+    "wikimedia": "1965 Porsche 912 Coupe.jpg"
+   },
+   "credit": {
+    "author": "Coolalabright",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1965_Porsche_912_Coupe.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 912."
+  },
+  {
+   "id": "lamborghini-aventador-svj-2019",
+   "title": "2019 Lamborghini Aventador SVJ",
+   "detail": "6.5L V12 · Italy",
+   "image": {
+    "wikimedia": "2019 Lamborghini Aventador SVJ 11.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_Lamborghini_Aventador_SVJ_11.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Aventador."
+  },
+  {
+   "id": "bugatti-eb110-1994",
+   "title": "1994 Bugatti EB110",
+   "detail": "3.5L quad-turbo V12 · France",
+   "image": {
+    "wikimedia": "1994 Bugatti EB110 America.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1994_Bugatti_EB110_America.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Bugatti EB110."
+  },
+  {
+   "id": "alfa-romeo-giulietta-spider-1961",
+   "title": "1961 Alfa Romeo Giulietta Spider",
+   "detail": "1.3L inline-four · Italy",
+   "image": {
+    "wikimedia": "1961 Alfa Romeo Giulietta Spider.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1961_Alfa_Romeo_Giulietta_Spider.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Alfa Romeo Giulietta (750/101)."
+  },
+  {
+   "id": "honda-s2000-2003",
+   "title": "2003 Honda S2000",
+   "detail": "Inline-four · Japan",
+   "image": {
+    "wikimedia": "2003 Honda S2000.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2003_Honda_S2000.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Honda S2000."
+  },
+  {
+   "id": "lamborghini-jalpa-1986",
+   "title": "1986 Lamborghini Jalpa",
+   "detail": "3.5L V8 · Italy",
+   "image": {
+    "wikimedia": "1986 Lamborghini Jalpa in Nero Tenebre, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1986_Lamborghini_Jalpa_in_Nero_Tenebre,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Jalpa."
+  },
+  {
+   "id": "mazda-mx-5-2016",
+   "title": "2016 Mazda MX-5",
+   "detail": "Inline-four · Japan",
+   "image": {
+    "wikimedia": "2016 Mazda MX-5 (ND) Roadster GT 1.5 convertible (25815499640).jpg"
+   },
+   "credit": {
+    "author": "Jeremy from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_Mazda_MX-5_(ND)_Roadster_GT_1.5_convertible_(25815499640).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mazda MX-5 (ND)."
+  },
+  {
+   "id": "audi-r8-2009",
+   "title": "2009 Audi R8",
+   "detail": "Mid-engine V8 or V10 · Germany",
+   "image": {
+    "wikimedia": "2009 silver Audi R8 front.JPG"
+   },
+   "credit": {
+    "author": "BrokenSphere",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_silver_Audi_R8_front.JPG"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Audi R8 (Type 42)."
+  },
+  {
+   "id": "de-tomaso-pantera-1974",
+   "title": "1974 De Tomaso Pantera",
+   "detail": "Ford V8 · Italy",
+   "image": {
+    "wikimedia": "1974 De Tomaso Pantera 9.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1974_De_Tomaso_Pantera_9.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, De Tomaso Pantera."
+  },
+  {
+   "id": "pagani-huayra-2015",
+   "title": "2015 Pagani Huayra",
+   "detail": "6.0L twin-turbo V12 · Italy",
+   "image": {
+    "wikimedia": "2015 Pagani Huayra SP25.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Pagani_Huayra_SP25.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Pagani Huayra."
+  },
+  {
+   "id": "ferrari-458-italia-2012",
+   "title": "2012 Ferrari 458 Italia",
+   "detail": "4.5L V8 · Italy",
+   "image": {
+    "wikimedia": "2012 Ferrari 458 3.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Ferrari_458_3.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 458."
+  },
+  {
+   "id": "maserati-mistral-1964",
+   "title": "1964 Maserati Mistral",
+   "detail": "Inline-six · Italy",
+   "image": {
+    "wikimedia": "1964 Maserati Mistral 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1964_Maserati_Mistral_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Maserati Mistral."
+  },
+  {
+   "id": "chevrolet-corvette-1994",
+   "title": "1994 Chevrolet Corvette",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1994 Chevrolet Corvette coupe, front right, 06-16-2024.jpg"
+   },
+   "credit": {
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1994_Chevrolet_Corvette_coupe,_front_right,_06-16-2024.jpg"
+   },
+   "verified": "Commons category: 1994 Chevrolet Corvette. Specs: Wikipedia, Chevrolet Corvette (C4)."
+  },
+  {
+   "id": "lancia-fulvia-coupe-1976",
+   "title": "1976 Lancia Fulvia Coupé",
+   "detail": "V4 · Italy",
+   "image": {
+    "wikimedia": "1976 Lancia Fulvia 3 Coupé Verde Dublino, front left.jpg"
+   },
+   "credit": {
+    "author": "Mr.choppers",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1976_Lancia_Fulvia_3_Coup%C3%A9_Verde_Dublino,_front_left.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lancia Fulvia."
+  },
+  {
+   "id": "ferrari-250-gt-california-spyder-1958",
+   "title": "1958 Ferrari 250 GT California Spyder",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "Ferrari 250 GT California Spyder LWB (1958) (55079911635).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_250_GT_California_Spyder_LWB_(1958)_(55079911635).jpg"
+   },
+   "verified": "Commons category: 1958 Ferrari 250 GT California Spyder s/n 0923GT. Specs: Wikipedia, Ferrari 250 GT California Spyder."
+  },
+  {
+   "id": "bmw-507-1960",
+   "title": "1960 BMW 507",
+   "detail": "3.2L V8 · Germany",
+   "image": {
+    "wikimedia": "1960 BMW 507.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1960_BMW_507.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, BMW 507."
+  },
+  {
+   "id": "plymouth-road-runner-superbird-1970",
+   "title": "1970 Plymouth Road Runner Superbird",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1970 Plymouth Road Runner Superbird LC23.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1970_Plymouth_Road_Runner_Superbird_LC23.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Plymouth Superbird."
+  },
+  {
+   "id": "aston-martin-db5-1963",
+   "title": "1963 Aston Martin DB5",
+   "detail": "4.0L inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "Paris - RM Sotheby’s 2016 - Aston Martin DB5 - 1963 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_RM_Sotheby%E2%80%99s_2016_-_Aston_Martin_DB5_-_1963_-_001.jpg"
+   },
+   "verified": "Commons category: 1963 Aston Martin DB5/1301/L. Specs: Wikipedia, Aston Martin DB5."
+  },
+  {
+   "id": "ferrari-360-modena-2003",
+   "title": "2003 Ferrari 360 Modena",
+   "detail": "3.6L V8 · Italy",
+   "image": {
+    "wikimedia": "2003 Ferrari 360 Modena 3.6 Front.jpg"
+   },
+   "credit": {
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2003_Ferrari_360_Modena_3.6_Front.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ferrari 360."
+  },
+  {
+   "id": "ferrari-f430-scuderia-spider-16m-2009",
+   "title": "2009 Ferrari F430 Scuderia Spider 16M",
+   "detail": "4.3L V8 · Italy",
+   "image": {
+    "wikimedia": "RM Sotheby’s 2017 - Ferrari 16M Scuderia Spider - 2009 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RM_Sotheby%E2%80%99s_2017_-_Ferrari_16M_Scuderia_Spider_-_2009_-_001.jpg"
+   },
+   "verified": "Commons category: 2009 Ferrari F430 Scuderia Spider 16M s/n 168947. Specs: Wikipedia, Ferrari F430."
+  },
+  {
+   "id": "amc-amx-1970",
+   "title": "1970 AMC AMX",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1970 AMC AMX (34991084441).jpg"
+   },
+   "credit": {
+    "author": "Greg Gjerdingen from Willmar, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1970_AMC_AMX_(34991084441).jpg"
+   },
+   "verified": "Commons category: 1970 AMC AMX. Specs: Wikipedia, AMC AMX."
+  },
+  {
+   "id": "porsche-356a-speedster-1957",
+   "title": "1957 Porsche 356A Speedster",
+   "detail": "Flat-four · Germany",
+   "image": {
+    "wikimedia": "1957 Porsche 356A Speedster Red.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1957_Porsche_356A_Speedster_Red.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 356."
+  },
+  {
+   "id": "triumph-tr3a-1957",
+   "title": "1957 Triumph TR3A",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1957 Triumph TR3A (35103018112).jpg"
+   },
+   "credit": {
+    "author": "Hugh Llewelyn from Keynsham, UK",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1957_Triumph_TR3A_(35103018112).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph TR3."
+  },
+  {
+   "id": "sunbeam-alpine-1966",
+   "title": "1966 Sunbeam Alpine",
+   "detail": "Inline-four · United Kingdom",
+   "image": {
+    "wikimedia": "1966 Sunbeam Alpine 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1966_Sunbeam_Alpine_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Sunbeam Alpine."
+  },
+  {
+   "id": "jaguar-xkr-s-2011",
+   "title": "2011 Jaguar XKR-S",
+   "detail": "V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2011 Jaguar XKR-S Auto 1.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2011_Jaguar_XKR-S_Auto_1.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XK (X150)."
+  },
+  {
+   "id": "porsche-911-carrera-rs-2-7-1972",
+   "title": "1972 Porsche 911 Carrera RS 2.7",
+   "detail": "2.7L flat-six · Germany",
+   "image": {
+    "wikimedia": "1972 Porsche 911 Carrera RS 2.7.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Porsche_911_Carrera_RS_2.7.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 911 (classic)."
+  },
+  {
+   "id": "volkswagen-karmann-ghia-1972",
+   "title": "1972 Volkswagen Karmann Ghia",
+   "detail": "Air-cooled flat-four · Germany",
+   "image": {
+    "wikimedia": "1972 Volkswagen Karmann Ghia coupe, front right, 08-06-2023.jpg"
+   },
+   "credit": {
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Volkswagen_Karmann_Ghia_coupe,_front_right,_08-06-2023.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Volkswagen Karmann Ghia."
+  },
+  {
+   "id": "ford-gt-heritage-edition-2006",
+   "title": "2006 Ford GT Heritage Edition",
+   "detail": "5.4L supercharged V8 · USA",
+   "image": {
+    "wikimedia": "2006 Ford GT Heritage GT101.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2006_Ford_GT_Heritage_GT101.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Ford GT."
+  },
+  {
+   "id": "jaguar-xk150-se-1957",
+   "title": "1957 Jaguar XK150 SE",
+   "detail": "Inline-six · United Kingdom",
+   "image": {
+    "wikimedia": "1957 Jaguar XK150 SE HCC22.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1957_Jaguar_XK150_SE_HCC22.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar XK150."
+  },
+  {
+   "id": "triumph-stag-1972",
+   "title": "1972 Triumph Stag",
+   "detail": "3.0L V8 · United Kingdom",
+   "image": {
+    "wikimedia": "1972 Triumph Stag (51249).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Triumph_Stag_(51249).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Triumph Stag."
+  },
+  {
+   "id": "porsche-911-carrera-4-993-1996",
+   "title": "1996 Porsche 911 Carrera 4 (993)",
+   "detail": "3.6L flat-six · Germany",
+   "image": {
+    "wikimedia": "1996 Porsche 911 993 Carrera 4 (86823).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1996_Porsche_911_993_Carrera_4_(86823).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 993."
+  },
+  {
+   "id": "ford-thunderbird-1956",
+   "title": "1956 Ford Thunderbird",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1956 Ford Thunderbird (35659395502).jpg"
+   },
+   "credit": {
+    "author": "Greg Gjerdingen from Willmar, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1956_Ford_Thunderbird_(35659395502).jpg"
+   },
+   "verified": "Commons category: 1956 Ford Thunderbird. Specs: Wikipedia, Ford Thunderbird (first generation)."
+  },
+  {
+   "id": "jaguar-e-type-series-3-coupe-1972",
+   "title": "1972 Jaguar E-Type Series 3 Coupe",
+   "detail": "5.3L V12 · United Kingdom",
+   "image": {
+    "wikimedia": "1972 Jaguar E Type Series III Coupe (17846998632).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1972_Jaguar_E_Type_Series_III_Coupe_(17846998632).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Jaguar E-Type."
+  },
+  {
+   "id": "mercedes-benz-300-sl-r107-1989",
+   "title": "1989 Mercedes-Benz 300 SL (R107)",
+   "detail": "Front-engine roadster · Germany",
+   "image": {
+    "wikimedia": "1989 Mercedes 300 SL Auto.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1989_Mercedes_300_SL_Auto.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Mercedes-Benz R107 and C107."
+  },
+  {
+   "id": "chevrolet-corvette-sting-ray-sport-coupe-1963",
+   "title": "1963 Chevrolet Corvette Sting Ray Sport Coupe",
+   "detail": "V8 · USA",
+   "image": {
+    "wikimedia": "1963 Chevrolet Corvette Sting Ray Sport Coupe, front left, 08-25-2024.jpg"
+   },
+   "credit": {
+    "author": "MercurySable99",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe,_front_left,_08-25-2024.jpg"
+   },
+   "verified": "Commons category: 1963 Chevrolet Corvette. Specs: Wikipedia, Chevrolet Corvette (C2)."
+  },
+  {
+   "id": "ferrari-575m-maranello-2003",
+   "title": "2003 Ferrari 575M Maranello",
+   "detail": "5.7L V12 · Italy",
+   "image": {
+    "wikimedia": "Ferrari 575M Maranello (2003) (52863658885).jpg"
+   },
+   "credit": {
+    "author": "Charles from Port Chester, New York",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_575M_Maranello_(2003)_(52863658885).jpg"
+   },
+   "verified": "Commons category: 2003 Ferrari 575M Maranello s/n 132339. Specs: Wikipedia, Ferrari 575M Maranello."
+  },
+  {
+   "id": "dodge-viper-2001",
+   "title": "2001 Dodge Viper",
+   "detail": "V10 · USA",
+   "image": {
+    "wikimedia": "2001 Dodge Viper.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2001_Dodge_Viper.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Dodge Viper."
+  },
+  {
+   "id": "aston-martin-vantage-2024",
+   "title": "2024 Aston Martin Vantage",
+   "detail": "4.0L twin-turbo V8 · United Kingdom",
+   "image": {
+    "wikimedia": "2024 Aston Martin Vantage V8 F1 Safety Car 5.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Vantage_V8_F1_Safety_Car_5.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Aston Martin Vantage (2018)."
+  },
+  {
+   "id": "mercedes-benz-190-sl-1959",
+   "title": "1959 Mercedes-Benz 190 SL",
+   "detail": "1.9L inline-four · Germany",
+   "image": {
+    "wikimedia": "1959 Mercedes Benz W121 190 SL Roadster (33008056582).jpg"
+   },
+   "credit": {
+    "author": "Sicnag",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1959_Mercedes_Benz_W121_190_SL_Roadster_(33008056582).jpg"
+   },
+   "verified": "Commons category: 1959 Mercedes-Benz 190 SL. Specs: Wikipedia, Mercedes-Benz 190 SL."
+  },
+  {
+   "id": "ferrari-f40-1989",
+   "title": "1989 Ferrari F40",
+   "detail": "2.9L twin-turbo V8 · 471 hp",
+   "image": {
+    "wikimedia": "RM Sotheby’s 2017 - Ferrari F40 - 1989 - 001.jpg"
+   },
+   "credit": {
+    "author": "Thesupermat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RM_Sotheby%E2%80%99s_2017_-_Ferrari_F40_-_1989_-_001.jpg"
+   },
+   "verified": "Commons category: 1989 Ferrari F40 s/n 80747. Specs: Wikipedia, Ferrari F40."
+  },
+  {
+   "id": "volvo-p1800-1968",
+   "title": "1968 Volvo P1800",
+   "detail": "Inline-four · Sweden",
+   "image": {
+    "wikimedia": "1968 Volvo P1800.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1968_Volvo_P1800.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Volvo P1800."
+  },
+  {
+   "id": "porsche-911-turbo-930-1979",
+   "title": "1979 Porsche 911 Turbo (930)",
+   "detail": "3.3L turbo flat-six · Germany",
+   "image": {
+    "wikimedia": "1979 Porsche 911 930 Martini Turbo 4.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1979_Porsche_911_930_Martini_Turbo_4.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 930."
+  },
+  {
+   "id": "lotus-esprit-turbo-hc-1987",
+   "title": "1987 Lotus Esprit Turbo HC",
+   "detail": "Mid-engine · United Kingdom",
+   "image": {
+    "wikimedia": "1987 Lotus Esprit Turbo HC.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1987_Lotus_Esprit_Turbo_HC.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lotus Esprit."
+  },
+  {
+   "id": "porsche-911-gt3-997-2010",
+   "title": "2010 Porsche 911 GT3 (997)",
+   "detail": "3.8L flat-six · Germany",
+   "image": {
+    "wikimedia": "2010 Porsche 911 GT3 SCD 24.jpg"
+   },
+   "credit": {
+    "author": "MrWalkr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2010_Porsche_911_GT3_SCD_24.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 997."
+  },
+  {
+   "id": "lamborghini-diablo-se30-jota-1995",
+   "title": "1995 Lamborghini Diablo SE30 Jota",
+   "detail": "V12 · Italy",
+   "image": {
+    "wikimedia": "1995 Lamborghini Diablo SE30 Jota 2.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1995_Lamborghini_Diablo_SE30_Jota_2.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Lamborghini Diablo."
+  },
+  {
+   "id": "porsche-911-gt3-996-1999",
+   "title": "1999 Porsche 911 GT3 (996)",
+   "detail": "3.6L flat-six · Germany",
+   "image": {
+    "wikimedia": "1999 Porsche 911 996 GT3.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1999_Porsche_911_996_GT3.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 996."
+  },
+  {
+   "id": "porsche-911-carrera-4-964-1991",
+   "title": "1991 Porsche 911 Carrera 4 (964)",
+   "detail": "3.6L flat-six · Germany",
+   "image": {
+    "wikimedia": "1991 Porsche 911 964 Carrera 4.jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1991_Porsche_911_964_Carrera_4.jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 964."
+  },
+  {
+   "id": "porsche-911-gt3-touring-992-2022",
+   "title": "2022 Porsche 911 GT3 Touring (992)",
+   "detail": "4.0L flat-six · Germany",
+   "image": {
+    "wikimedia": "2022 Porsche 911 992 GT3 Touring (73324).jpg"
+   },
+   "credit": {
+    "author": "Calreyn88",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2022_Porsche_911_992_GT3_Touring_(73324).jpg"
+   },
+   "verified": "Year and model in the Commons file name. Specs: Wikipedia, Porsche 992."
+  }
+ ]
 }
